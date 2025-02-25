@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <title>Complaints</title>
+    <style>
+
+        .bg-img {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.7) blur(5px);
+        }
+
+        .table-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+        }
+
+        table {
+            color: #fff;
+        }
+
+        th,
+        td {
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            textarea {
+                font-size: 12px;
+                height: 180px;
+                min-width: 30vw;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    {{>headadmheader}}
+
+    <div class="container mt-5">
+        <h2 class="mb-4 text-center text-warning">Complaints</h2>
+
+        <div class="table-responsive table-container mx-auto">
+            <table class="table table-dark table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Complaint ID</th>
+                        <th>Institution Admin</th>
+                        <th>Details</th>
+                        <th>Status</th>
+                        <th>Solution</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each complaints}}
+                    <tr>
+                        <td>{{this._id}}</td>
+                        <td>{{this.empId}}</td>
+                        <td>{{this.complaint}}</td>
+                            <form action="/headadmin/replyinstcomplaints" method="POST">
+                        <td>
+                            <div class="form-group">
+                                <select class="form-select form-control" id="complaintStatus" name="complaintStatus"
+                                    required>
+                                    <option value="" disabled {{#unless this.status}}selected{{/unless}}>Select</option>
+                                    <option value="Pending" {{#if (eq this.status "Pending" )}}selected{{/if}}>Pending
+                                    </option>
+                                    <option value="Resolved" {{#if (eq this.status "Resolved" )}}selected{{/if}}>
+                                        Resolved</option>
+                                </select>
+                            </div>
+                        </td>
+                        <td>
+                                <input type="hidden" name="complaintId" value="{{this._id}}">
+                                <input type="hidden" name="empId" value="{{this.empId}}">
+                                <textarea class="form-control w-100 p-3" name="response" placeholder="Enter Response"
+                                    required style="height: 150px; font-size: 14px; overflow-y: auto;"
+                                    rows="4">{{this.response}}</textarea>
+                        </td>
+                        <td>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    {{>headadminfooter}}
+</body>
+
+</html>

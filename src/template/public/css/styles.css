@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap');
+
+*{
+  
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-family: "Helvetica",serif;
+}
+
+:root{
+    --bg-light:#ffffff;
+    --light-theme-text:#0d006d;
+    --btn-light:#000000;
+    --btn-light-txt:#ffee00;
+    --bg-dark:#1d1919;
+    --dark-theme-text:#ffffff;
+    --btn-dark:#77ff00;
+    --btn-dark-txt:#000000;
+}
+
+h1,h2,h3,h4,h5{
+    color: var(--light-theme-text);
+    font-family: "Open SANS", serif;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+a{
+    text-decoration: none;
+}
+
+.bg-color{
+    background-color: var(--bg-dark);
+    color: var(--dark-theme-text);
+}
+body {
+    color: white;
+    background: linear-gradient(to bottom, #151516 0%, #001122 100%);
+    background-size: 100% 100vh; /* Makes the gradient fill the screen without repeating */
+    background-attachment: fixed; /* Keeps the gradient in place when scrolling */
+}

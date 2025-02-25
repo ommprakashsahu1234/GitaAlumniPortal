@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css"> <!-- Bootstrap 5 CSS -->
+    <link rel="stylesheet" href="../public/css/styles.css"> <!-- Your custom styles -->
+    <title>404 Error - Page Not Found</title>
+    <style>
+
+        /* Body and text styling */
+        body {
+            color: #fff;
+            background: linear-gradient(to bottom, #000099 0%, #0066cc 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        h1 {
+            color: rgb(255, 255, 255);
+            font-size: 80px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        .error-text {
+            font-size: 24px;
+            color: #ccc;
+            margin-bottom: 40px;
+            animation: fadeIn 2.5s ease-in-out;
+        }
+
+        /* Animation for fadeIn effect */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .button-container {
+            animation: slideIn 3s ease-in-out;
+        }
+
+        /* Slide-in effect */
+        @keyframes slideIn {
+            0% {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .btn-go-home {
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        .btn-go-home:hover {
+            background-color: #0056b3;
+        }
+        .err {
+            border-radius: 20px;
+            mix-blend-mode: lighten; 
+            background-color: transparent; 
+            filter: brightness(1.2) contrast(1.5); 
+        }
+        .lst{
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+>
+    <button type="button" class="btn btn-outline-light" style="margin-top: 150px;" onclick="history.back()" style="margin-top: 20px;">Back</button>
+
+    <div>
+        <img src="../public/images/404.png" class="img-fluid err" alt="...">
+        <h1>404</h1>
+        <p class="error-text">Oops! The page you're looking for doesn't exist.</p>
+        
+        <!-- Go Home Button -->
+        <div class="button-container lst">
+            <a href="/" class="btn-go-home">Homepage</a>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5 JS -->
+    <script src="../public/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>

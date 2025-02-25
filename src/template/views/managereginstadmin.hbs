@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <title>Manage Alumnis</title>
+    <style>
+        form {
+            margin: 10px;
+        }
+
+        .navbar,
+        .form-control,
+        label {
+            color: #fff;
+        }
+
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+        }
+
+        .form-container h2 {
+            color: #fff;
+        }
+
+        h2 {
+            color: yellow;
+        }
+
+        input {
+            color: black;
+        }
+
+        .form-control {
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .warn {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    {{>instadmheader}}
+
+
+    <div class="container mt-5">
+        <div class="table-responsive">
+            <table class="table table-dark table-striped table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Name</th>
+                        <th>Roll No</th>
+                        <th>Batch</th>
+                        <th>Branch</th>
+                        <th>Email ID</th>
+                        <th>Mobile No</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each data}}
+                    <tr>
+                        <td>{{this.name}}</td>
+                        <td>{{this.rollno}}</td>
+                        <td>{{this.batch}}</td>
+                        <td>{{this.branch}}</td>
+                        <td>{{this.mailid}}</td>
+                        <td>{{this.mobno.mobno}}</td>
+                        <td>
+                            <!-- Individual form for each row -->
+                            <form action="/approve" method="POST">
+                                <input type="hidden" name="rollno" value="{{this.rollno}}">
+                                <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                            </form>
+                            <form action="/reject" method="POST">
+                                <input type="hidden" name="rollno" value="{{this.rollno}}">
+                                <button type="submit" class="btn btn-success btn-sm">Reject</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap 5 JS file -->
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    {{>instadminfooter}}
+</body>
+
+</html>
+<script>
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
