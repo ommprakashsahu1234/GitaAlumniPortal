@@ -769,9 +769,7 @@ app.post("/deleteaccount", async (req, res) => {
             console.error(`Error deleting ${filePath}:`, unlinkErr);
           }
         }
-        return res.status(200).render("deletealumni", {
-          success: "Deleted Successfully",
-        });
+        return res.status(200).redirect('/register');
       } else {
         return res.status(500).render("deletealumni", {
           warn: "Failed to delete",
