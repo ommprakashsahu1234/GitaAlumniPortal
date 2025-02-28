@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "679f2d6fb60dcf6e95a838df"
+  },
+  "name": "SANKARSAN PRADHAN",
+  "rollno": "2402L26",
+  "branch": "CSE",
+  "skill": "FULL STACK WEB DEVELOPMENT",
+  "cgpa": 8.5,
+  "password": "Litu@123",
+  "mailid": "sankarsanpradhan2004@gmail.com",
+  "address": {
+    "district": "KHORDHA",
+    "state": "ODISHA",
+    "pincode": "752054",
+    "_id": {
+      "$oid": "679f2d6fb60dcf6e95a838e0"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2402L26-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "mobno": {
+    "mobno": "8984394047",
+    "access": "public"
+  },
+  "batch": "2024"
+},
+{
+  "_id": {
+    "$oid": "679f2dd9b60dcf6e95a838f3"
+  },
+  "name": "PRASANJIT BEHERA",
+  "rollno": "2302099",
+  "branch": "CSE",
+  "skill": "C++",
+  "cgpa": 9.5,
+  "password": "Prasanjit@123",
+  "mobno": {
+    "mobno": "8144150503",
+    "access": "private"
+  },
+  "mailid": "prasanjitbehera992@gmail.com",
+  "address": {
+    "district": "KHORDHA",
+    "state": "ODISHA",
+    "pincode": "752054",
+    "_id": {
+      "$oid": "679f2dd9b60dcf6e95a838f4"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2302099-profile_img.jpg",
+  "status": "Approved",
+  "__v": 0,
+  "appby": "INADM1",
+  "batch": "2023"
+},
+{
+  "_id": {
+    "$oid": "67a65d2934e4de0bdcf3ed5e"
+  },
+  "name": "DEBASHIS PRUSTY",
+  "rollno": "2304020",
+  "branch": "CS-AIML",
+  "skill": "BUSINESS",
+  "cgpa": 10,
+  "password": "Debashis@123",
+  "mobno": {
+    "mobno": "9334413755",
+    "access": "public"
+  },
+  "mailid": "debashisprusty666@gmail.com",
+  "address": {
+    "district": "KHORDHA",
+    "state": "ODISHA",
+    "pincode": "752054",
+    "_id": {
+      "$oid": "67a65d2934e4de0bdcf3ed5f"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2304020-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67a737425d9da1201287cabe"
+  },
+  "name": "NITISH KUMAR",
+  "rollno": "2310009",
+  "branch": "EE",
+  "skill": "TRADING",
+  "cgpa": 9,
+  "password": "Nitish@123",
+  "mobno": {
+    "mobno": "8434213593",
+    "access": "private"
+  },
+  "mailid": "nitishk8434@gmail.com",
+  "address": {
+    "district": "KHORDHA",
+    "state": "ODISHA",
+    "pincode": "835102",
+    "_id": {
+      "$oid": "67a737425d9da1201287cabf"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2310009-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67a7a0989fa483b89b04c988"
+  },
+  "name": "OMM PRAKASH SAHU",
+  "rollno": "2302094",
+  "branch": "CSE",
+  "skill": "FULL STACK WEB DEV",
+  "cgpa": 7.5,
+  "password": "Omm@123",
+  "mobno": {
+    "access": "public",
+    "mobno": "8144219523"
+  },
+  "mailid": "ommprakashs818@gmail.com",
+  "address": {
+    "district": "BHADRAK",
+    "state": "ODISHA",
+    "pincode": "756131",
+    "_id": {
+      "$oid": "67a7a0989fa483b89b04c989"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2302094-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "company": "ORACLE",
+  "servicetype": "COMPANY",
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67a7a3fddd6bb9c9c4004298"
+  },
+  "name": "ARMAN GAURAV",
+  "rollno": "2305018",
+  "branch": "CS-DS",
+  "skill": "",
+  "cgpa": 8,
+  "password": "Gauravarman@9",
+  "mobno": {
+    "mobno": "9341163851",
+    "access": "public"
+  },
+  "mailid": "gauravarman9@gmail.com",
+  "address": {
+    "district": "VAISHALI",
+    "state": "BIHAR",
+    "pincode": "844102",
+    "_id": {
+      "$oid": "67a7a3fddd6bb9c9c4004299"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2305018-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67a8dab9ea4087065c54046f"
+  },
+  "name": "NIGAMANANDA SWAIN",
+  "rollno": "2302092",
+  "branch": "CSE",
+  "skill": "C++",
+  "cgpa": 7.5,
+  "password": "Jiban577",
+  "mobno": {
+    "mobno": "8093631272",
+    "access": "public"
+  },
+  "mailid": "nigamanandaswain577@gmail.com",
+  "address": {
+    "district": "KENDRAPARA",
+    "state": "ODISHA",
+    "pincode": "754246",
+    "_id": {
+      "$oid": "67a8dab9ea4087065c540470"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2302092-profile_img.webp",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67ae0be2a41ebf1d6ba219cb"
+  },
+  "name": "PRANAB KUMAR SAHOO",
+  "rollno": "2305054",
+  "branch": "CS-DS",
+  "skill": "WEB DEV",
+  "cgpa": 7.8,
+  "password": "pranab@2305054",
+  "mobno": {
+    "mobno": "9692371718",
+    "access": "public"
+  },
+  "mailid": "pranabkumarsahoo1718@gmail.com",
+  "address": {
+    "district": "CUTTACK",
+    "state": "ODISHA",
+    "pincode": "754205",
+    "_id": {
+      "$oid": "67ae0be2a41ebf1d6ba219cc"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2305054-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67b61f7f16a083ba114468b1"
+  },
+  "name": "ABHIMANYU KUMAR SINGH",
+  "rollno": "2307006",
+  "branch": "CST",
+  "skill": "WEB-DEVELOPER",
+  "cgpa": 8.5,
+  "password": "041698",
+  "mobno": {
+    "mobno": "7461824778",
+    "access": "public"
+  },
+  "mailid": "abhimanyukumar2307006@gmail.com",
+  "address": {
+    "district": "KHORDHA",
+    "state": "ODISHA",
+    "pincode": "752054",
+    "_id": {
+      "$oid": "67b61f7f16a083ba114468b2"
+    }
+  },
+  "profileimg": "uploads\\profileimgs\\2307006-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0,
+  "batch": "2025"
+},
+{
+  "_id": {
+    "$oid": "67c0848a4d3bb32495722c9b"
+  },
+  "name": "KUMAR ANMOL",
+  "rollno": "2302079",
+  "batch": "2023",
+  "branch": "CSE",
+  "skill": "JAVA",
+  "cgpa": 8.2,
+  "password": "anmol098",
+  "mobno": {
+    "mobno": "6207756127",
+    "access": "private"
+  },
+  "mailid": "kranmol223344@gmail.com",
+  "address": {
+    "district": "DHANBAD",
+    "state": "JHARKHAND",
+    "pincode": "828101",
+    "_id": {
+      "$oid": "67c0848a4d3bb32495722c9c"
+    }
+  },
+  "servicetype": "",
+  "company": "",
+  "profileimg": "uploads\\profileimgs\\2302079-profile_img.jpg",
+  "status": "Approved",
+  "appby": "INADM1",
+  "__v": 0
+}]

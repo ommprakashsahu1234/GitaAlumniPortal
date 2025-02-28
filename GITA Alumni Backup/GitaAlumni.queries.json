@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "67a65f58eb15a54779ef995d"
+  },
+  "rollno": "2304020",
+  "name": "Debashis Prusty",
+  "query": "Is web devp is gud?",
+  "replies": [
+    {
+      "name": "Nigamananda swain",
+      "rollno": "2302092",
+      "reply": "Yes",
+      "_id": {
+        "$oid": "67a8dc12ea4087065c540491"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a738305d9da1201287cad5"
+  },
+  "rollno": "2310009",
+  "name": "Nitish Kumar",
+  "query": "Is technical skills good??",
+  "replies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae0d13a41ebf1d6ba219f7"
+  },
+  "rollno": "2305054",
+  "name": "Pranab Kumar Sahoo",
+  "query": "Is C++ good for future ?",
+  "replies": [
+    {
+      "name": "Omm Prakash Sahu",
+      "rollno": "2302094",
+      "reply": "Yes Definitely ",
+      "_id": {
+        "$oid": "67ae0d2ca41ebf1d6ba219fd"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae21a0e857926d98326a1d"
+  },
+  "rollno": "2302094",
+  "name": "Omm Prakash Sahu",
+  "query": "Is MERN Stack good for future ?",
+  "replies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aee82e1b0436a46823e7d9"
+  },
+  "rollno": "2305054",
+  "name": "Pranab Kumar Sahoo",
+  "query": "Is wev dev good ? 123",
+  "replies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6205b16a083ba114468d2"
+  },
+  "rollno": "2307006",
+  "name": "Abhimanyu kumar singh",
+  "query": "Is video editing good ",
+  "replies": [
+    {
+      "name": "Omm Prakash Sahu",
+      "rollno": "2302094",
+      "reply": "Yes ! Sure",
+      "_id": {
+        "$oid": "67b6207a16a083ba114468d9"
+      }
+    },
+    {
+      "name": "Omm Prakash Sahu",
+      "rollno": "2302094",
+      "reply": "yes",
+      "_id": {
+        "$oid": "67b9941082a469b42a253357"
+      }
+    }
+  ],
+  "__v": 0
+}]

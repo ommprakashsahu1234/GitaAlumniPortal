@@ -1,0 +1,4099 @@
+[{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede430"
+  },
+  "rollno": "2002001",
+  "regno": 2001287038,
+  "name": "ABHILASH JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede431"
+  },
+  "rollno": "2002002",
+  "regno": 2001287328,
+  "name": "ABHILIPSA SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede432"
+  },
+  "rollno": "2002003",
+  "regno": 2001287025,
+  "name": "ABHISHEK BARIK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede433"
+  },
+  "rollno": "2002004",
+  "regno": 2001287039,
+  "name": "ABHISHEK KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede434"
+  },
+  "rollno": "2002005",
+  "regno": 2001287040,
+  "name": "ABHISHEK KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede435"
+  },
+  "rollno": "2002006",
+  "regno": 2001287329,
+  "name": "ABHISHEK MOHAPATRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede436"
+  },
+  "rollno": "2002007",
+  "regno": 2001287041,
+  "name": "ABINASH CHOUDHURY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede437"
+  },
+  "rollno": "2002008",
+  "regno": 2001287042,
+  "name": "ADAITA BASUDEV MISHRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede438"
+  },
+  "rollno": "2002009",
+  "regno": 2001287043,
+  "name": "ADARSHA KUMAR ROUT",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede439"
+  },
+  "rollno": "2002010",
+  "regno": 2001287044,
+  "name": "ADITI PANDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43a"
+  },
+  "rollno": "2002011",
+  "regno": 2001287204,
+  "name": "ABHISEK MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43b"
+  },
+  "rollno": "2002012",
+  "regno": 2001287045,
+  "name": "ADITYA KUMAR DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43c"
+  },
+  "rollno": "2002013",
+  "regno": 2001287046,
+  "name": "ADITYA KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43d"
+  },
+  "rollno": "2002014",
+  "regno": 2001287330,
+  "name": "ADITYA NARAYAN JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43e"
+  },
+  "rollno": "2002015",
+  "regno": 2001287047,
+  "name": "ADITYA PRATAP",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede43f"
+  },
+  "rollno": "2002016",
+  "regno": 2001287026,
+  "name": "ADITYA RAJ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede440"
+  },
+  "rollno": "2002017",
+  "regno": 2001287048,
+  "name": "AJIT KUMAR DASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede441"
+  },
+  "rollno": "2002018",
+  "regno": 2001287049,
+  "name": "AJIT KUMAR PATRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede442"
+  },
+  "rollno": "2002019",
+  "regno": 2001287027,
+  "name": "ALAKANANDA RANASINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede443"
+  },
+  "rollno": "2002021",
+  "regno": 2001287051,
+  "name": "AMAN NIKUMB",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede444"
+  },
+  "rollno": "2002022",
+  "regno": 2001287052,
+  "name": "AMAN SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede445"
+  },
+  "rollno": "2002024",
+  "regno": 2001287054,
+  "name": "AMIT KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede446"
+  },
+  "rollno": "2002025",
+  "regno": 2001287055,
+  "name": "ANANDA PARIDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede447"
+  },
+  "rollno": "2002026",
+  "regno": 2001287056,
+  "name": "ANANYA PARIDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede448"
+  },
+  "rollno": "2002027",
+  "regno": 2001287057,
+  "name": "ANANYA PATI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede449"
+  },
+  "rollno": "2002028",
+  "regno": 2001287058,
+  "name": "ANANYA PATTNAIK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44a"
+  },
+  "rollno": "2002030",
+  "regno": 2001287059,
+  "name": "ANIKET KUMAR SONI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44b"
+  },
+  "rollno": "2002031",
+  "regno": 2001287060,
+  "name": "ANIRBAN KARMAKAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44c"
+  },
+  "rollno": "2002032",
+  "regno": 2001287061,
+  "name": "ANITA SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44d"
+  },
+  "rollno": "2002034",
+  "regno": 2001287331,
+  "name": "ANSHUMAN PANIGRAHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44e"
+  },
+  "rollno": "2004009",
+  "regno": 2001287298,
+  "name": "ARPITA SWAIN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede44f"
+  },
+  "rollno": "2005003",
+  "regno": 2001287353,
+  "name": "ADITYA KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede450"
+  },
+  "rollno": "2005004",
+  "regno": 2001287354,
+  "name": "AMAN RAJ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede451"
+  },
+  "rollno": "2102L03",
+  "regno": 2121287052,
+  "name": "KAIBALYA CHANDRA SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede452"
+  },
+  "rollno": "2102L10",
+  "regno": 2121287036,
+  "name": "DEBASHISH SIA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede453"
+  },
+  "rollno": "2102L15",
+  "regno": 2121287044,
+  "name": "PARTHA SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede454"
+  },
+  "rollno": "2002035",
+  "regno": 2001287062,
+  "name": "ANUKALP RAJ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede455"
+  },
+  "rollno": "2002036",
+  "regno": 2001287063,
+  "name": "ANUPAMA MALLICK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede456"
+  },
+  "rollno": "2002037",
+  "regno": 2001287064,
+  "name": "ANUPRIYA SATPATHY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede457"
+  },
+  "rollno": "2002038",
+  "regno": 2001287065,
+  "name": "ARYAN RAI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede458"
+  },
+  "rollno": "2002039",
+  "regno": 2001287066,
+  "name": "ASHISH KUMAR RATH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede459"
+  },
+  "rollno": "2002040",
+  "regno": 2001287067,
+  "name": "ASHUTOSH BARAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45a"
+  },
+  "rollno": "2002042",
+  "regno": 2001287068,
+  "name": "ASHUTOSH SAHU",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45b"
+  },
+  "rollno": "2002043",
+  "regno": 2001287069,
+  "name": "ASHUTOSH SARANGI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45c"
+  },
+  "rollno": "2002044",
+  "regno": 2001287070,
+  "name": "ASIT KUMAR PARHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45d"
+  },
+  "rollno": "2002045",
+  "regno": 2001287071,
+  "name": "ASUTOSH SAMAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45e"
+  },
+  "rollno": "2002046",
+  "regno": 2001287072,
+  "name": "AVILASH DASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede45f"
+  },
+  "rollno": "2002047",
+  "regno": 2001287073,
+  "name": "AYESHWARYA MISHRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede460"
+  },
+  "rollno": "2002048",
+  "regno": 2001287074,
+  "name": "B AMEER KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede461"
+  },
+  "rollno": "2002049",
+  "regno": 2001287075,
+  "name": "BANSIKA RATH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede462"
+  },
+  "rollno": "2002050",
+  "regno": 2001287076,
+  "name": "BHABANI PRASAD AICH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede463"
+  },
+  "rollno": "2002051",
+  "regno": 2001287077,
+  "name": "BHABESH ACHARYA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede464"
+  },
+  "rollno": "2002052",
+  "regno": 2001287078,
+  "name": "BIBHASH DASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede465"
+  },
+  "rollno": "2002053",
+  "regno": 2001287079,
+  "name": "BIBHU PRASAD NAYAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede466"
+  },
+  "rollno": "2002054",
+  "regno": 2001287080,
+  "name": "BIDISHA BHADURI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede467"
+  },
+  "rollno": "2002055",
+  "regno": 2001287081,
+  "name": "BINAY KUMAR PATRO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede468"
+  },
+  "rollno": "2002056",
+  "regno": 2001287082,
+  "name": "BISHWAJEET KUMAR RAJAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede469"
+  },
+  "rollno": "2002057",
+  "regno": 2001287083,
+  "name": "BISWAJIT PAHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46a"
+  },
+  "rollno": "2002058",
+  "regno": 2001287084,
+  "name": "BITTU KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46b"
+  },
+  "rollno": "2002059",
+  "regno": 2001287085,
+  "name": "CH KEDHAR KIRAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46c"
+  },
+  "rollno": "2002061",
+  "regno": 2001287087,
+  "name": "DARVISH KISHOR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46d"
+  },
+  "rollno": "2002062",
+  "regno": 2001287088,
+  "name": "DEBAPRASAD BEHERA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46e"
+  },
+  "rollno": "2002063",
+  "regno": 2001287029,
+  "name": "DEEPAK KUMAR NAURI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede46f"
+  },
+  "rollno": "2002064",
+  "regno": 2001287089,
+  "name": "DIBAS KUMAR BISWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede470"
+  },
+  "rollno": "2002065",
+  "regno": 2001287090,
+  "name": "DINESH GHOSAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede471"
+  },
+  "rollno": "2002066",
+  "regno": 2001287091,
+  "name": "DINESH KUMAR DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede472"
+  },
+  "rollno": "2002067",
+  "regno": 2001287092,
+  "name": "DIVYANSH KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede473"
+  },
+  "rollno": "2005006",
+  "regno": 2001287356,
+  "name": "ANKUR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede474"
+  },
+  "rollno": "2005025",
+  "regno": 2001287370,
+  "name": "MADHUCHHANDA MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede475"
+  },
+  "rollno": "2102L13",
+  "regno": 2121287034,
+  "name": "ABHISEK RANJAN SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede476"
+  },
+  "rollno": "2102L16",
+  "regno": 2121287039,
+  "name": "K KOYAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca6d027ebc3a8bede477"
+  },
+  "rollno": "2102L04",
+  "regno": 2121287049,
+  "name": "SAKTI SOURAV PATTANAIK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede478"
+  },
+  "rollno": "2002068",
+  "regno": 2001287093,
+  "name": "DIVYANSHU",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede479"
+  },
+  "rollno": "2002069",
+  "regno": 2001287094,
+  "name": "DIVYANSHU SHARMA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47a"
+  },
+  "rollno": "2002071",
+  "regno": 2001287095,
+  "name": "FARHAN KHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47b"
+  },
+  "rollno": "2002072",
+  "regno": 2001287096,
+  "name": "FARZAN MIRZA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47c"
+  },
+  "rollno": "2002073",
+  "regno": 2001287097,
+  "name": "GAUTAM PANDEY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47d"
+  },
+  "rollno": "2002074",
+  "regno": 2001287098,
+  "name": "GOBINDA BHOLE",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47e"
+  },
+  "rollno": "2002075",
+  "regno": 2001287332,
+  "name": "GOURAV PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede47f"
+  },
+  "rollno": "2002076",
+  "regno": 2001287099,
+  "name": "GOURISH KUMAR KAMILA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede480"
+  },
+  "rollno": "2002077",
+  "regno": 2001287100,
+  "name": "GYANA PRASAD MAHARATHY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede481"
+  },
+  "rollno": "2002078",
+  "regno": 2001287101,
+  "name": "HARA PRASAD PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede482"
+  },
+  "rollno": "2002079",
+  "regno": 2001287102,
+  "name": "HARSH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede483"
+  },
+  "rollno": "2002080",
+  "regno": 2001287103,
+  "name": "HARSHIKA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede484"
+  },
+  "rollno": "2002081",
+  "regno": 2001287104,
+  "name": "JANHABI PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede485"
+  },
+  "rollno": "2002082",
+  "regno": 2001287105,
+  "name": "JEEBAN TOSH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede486"
+  },
+  "rollno": "2002083",
+  "regno": 2001287333,
+  "name": "JYOTIRMAYEE SENAPATI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede487"
+  },
+  "rollno": "2002084",
+  "regno": 2001287106,
+  "name": "KARAN PURTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede488"
+  },
+  "rollno": "2002085",
+  "regno": 2001287107,
+  "name": "KRISHNA NAYAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede489"
+  },
+  "rollno": "2002086",
+  "regno": 2001287108,
+  "name": "KRISHNA PRAKASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48a"
+  },
+  "rollno": "2002087",
+  "regno": 2001287109,
+  "name": "KRITIKA RAJ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48b"
+  },
+  "rollno": "2002088",
+  "regno": 2001287110,
+  "name": "KUMAR ABHIJEET",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48c"
+  },
+  "rollno": "2002089",
+  "regno": 2001287111,
+  "name": "KUMAR AKASHDEEP",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48d"
+  },
+  "rollno": "2002090",
+  "regno": 2001287112,
+  "name": "KUMAR ANKUR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48e"
+  },
+  "rollno": "2002091",
+  "regno": 2001287113,
+  "name": "LABHANS PATEL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede48f"
+  },
+  "rollno": "2002092",
+  "regno": 2001287114,
+  "name": "LAGNAJIT PRUSTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede490"
+  },
+  "rollno": "2002093",
+  "regno": 2001287115,
+  "name": "MAHESH KUMAR SAHU",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede491"
+  },
+  "rollno": "2002094",
+  "regno": 2001287116,
+  "name": "MANISHA SWAIN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede492"
+  },
+  "rollno": "2002095",
+  "regno": 2001287117,
+  "name": "MD AFSHAN ASLAM ANSARI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede493"
+  },
+  "rollno": "2002097",
+  "regno": 2001287119,
+  "name": "NAMANKIT MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede494"
+  },
+  "rollno": "2002098",
+  "regno": 2001287120,
+  "name": "NEELESH SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede495"
+  },
+  "rollno": "2002099",
+  "regno": 2001287121,
+  "name": "NIKHIL RAJ GUPTA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede496"
+  },
+  "rollno": "2002100",
+  "regno": 2001287122,
+  "name": "NIKHIL SHARMA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede497"
+  },
+  "rollno": "2004031",
+  "regno": 2001287319,
+  "name": "NEHA KUMARI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede498"
+  },
+  "rollno": "2006026",
+  "regno": 2001287426,
+  "name": "RAM CHANDRA HANSDAH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede499"
+  },
+  "rollno": "2102L05",
+  "regno": 2121287051,
+  "name": "SUBHA NARAYAN SETHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49a"
+  },
+  "rollno": "2102L11",
+  "regno": 2121287045,
+  "name": "PRASANTA DALABEHERA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49b"
+  },
+  "rollno": "2102L17",
+  "regno": 2121287047,
+  "name": "RAKESH KUMAR DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49c"
+  },
+  "rollno": "2002101",
+  "regno": 2001287123,
+  "name": "NILESH MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49d"
+  },
+  "rollno": "2002102",
+  "regno": 2001287124,
+  "name": "NISITA SUBUDHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49e"
+  },
+  "rollno": "2002103",
+  "regno": 2001287125,
+  "name": "NITESH KUMAR RAM",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede49f"
+  },
+  "rollno": "2002104",
+  "regno": 2001287126,
+  "name": "P VIGNESH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a0"
+  },
+  "rollno": "2002105",
+  "regno": 2001287127,
+  "name": "PANKAJ KUMAR BEHERA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a1"
+  },
+  "rollno": "2002106",
+  "regno": 2001287128,
+  "name": "PANKAJ KUMAR JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a2"
+  },
+  "rollno": "2002107",
+  "regno": 2001287129,
+  "name": "PRABIN DALEI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a3"
+  },
+  "rollno": "2002108",
+  "regno": 2001287130,
+  "name": "PRASAD PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a4"
+  },
+  "rollno": "2002109",
+  "regno": 2001287131,
+  "name": "PRASHANT KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a5"
+  },
+  "rollno": "2002110",
+  "regno": 2001287132,
+  "name": "PRATHAM SHRESTH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a6"
+  },
+  "rollno": "2002111",
+  "regno": 2001287133,
+  "name": "PRATYUSH RAUTRAY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a7"
+  },
+  "rollno": "2002112",
+  "regno": 2001287031,
+  "name": "PRITAM KUMAR SAHU",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a8"
+  },
+  "rollno": "2002113",
+  "regno": 2001287135,
+  "name": "PRIYA KUMARI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4a9"
+  },
+  "rollno": "2002114",
+  "regno": 2001287134,
+  "name": "PRIYA KUMARI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4aa"
+  },
+  "rollno": "2002115",
+  "regno": 2001287136,
+  "name": "PRIYANKA GUPTA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4ab"
+  },
+  "rollno": "2002116",
+  "regno": 2001287137,
+  "name": "PRIYANKA SUBUDHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4ac"
+  },
+  "rollno": "2002117",
+  "regno": 2001287138,
+  "name": "PRIYANSHU SEKHAR MALLICK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4ad"
+  },
+  "rollno": "2002118",
+  "regno": 2001287139,
+  "name": "PRIYANSU MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4ae"
+  },
+  "rollno": "2002119",
+  "regno": 2001287140,
+  "name": "PRIYANSU PRIYADARSHAN ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4af"
+  },
+  "rollno": "2002120",
+  "regno": 2001287032,
+  "name": "RAHUL KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b0"
+  },
+  "rollno": "2002122",
+  "regno": 2001287141,
+  "name": "RASHMI RANJAN JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b1"
+  },
+  "rollno": "2002123",
+  "regno": 2001287142,
+  "name": "RASHMIRANJAN BARIK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b2"
+  },
+  "rollno": "2002124",
+  "regno": 2001287143,
+  "name": "RAUNAK RANJAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b3"
+  },
+  "rollno": "2002125",
+  "regno": 2001287144,
+  "name": "RITESH KUMAR SAW",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b4"
+  },
+  "rollno": "2002126",
+  "regno": 2001287145,
+  "name": "RITIK SHEKHAR PARIDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b5"
+  },
+  "rollno": "2002127",
+  "regno": 2001287146,
+  "name": "RIYA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b6"
+  },
+  "rollno": "2002128",
+  "regno": 2001287147,
+  "name": "RIYA OPHELIA MOHAPATRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b7"
+  },
+  "rollno": "2002129",
+  "regno": 2001287148,
+  "name": "ROHAN KUMAR ROUT",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b8"
+  },
+  "rollno": "2002130",
+  "regno": 2001287149,
+  "name": "ROHIT KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4b9"
+  },
+  "rollno": "2002131",
+  "regno": 2001287150,
+  "name": "S B SATYABRATA BISWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4ba"
+  },
+  "rollno": "2006002",
+  "regno": 2001287409,
+  "name": "ADITYA KUMAR GAUTAM",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4bb"
+  },
+  "rollno": "2006005",
+  "regno": 2001287412,
+  "name": "ASHUTOSH JAISWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4bc"
+  },
+  "rollno": "2102L01",
+  "regno": 2121287048,
+  "name": "RANJIT SINGH KASHYAP",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4bd"
+  },
+  "rollno": "2102L12",
+  "regno": 2121287046,
+  "name": "PRIYANSHU PATHAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca77027ebc3a8bede4be"
+  },
+  "rollno": "2102L18",
+  "regno": 2121287038,
+  "name": "JAJNASENI RAY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4bf"
+  },
+  "rollno": "2002133",
+  "regno": 2001287034,
+  "name": "SALONI NAYAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c0"
+  },
+  "rollno": "2002134",
+  "regno": 2001287152,
+  "name": "SAMIRAN PATRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c1"
+  },
+  "rollno": "2002135",
+  "regno": 2001287153,
+  "name": "SAMPARKA OJHA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c2"
+  },
+  "rollno": "2002137",
+  "regno": 2001287155,
+  "name": "SANAT KUMAR PANDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c3"
+  },
+  "rollno": "2002136",
+  "regno": 2001287154,
+  "name": "SAMYAK SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c4"
+  },
+  "rollno": "2002138",
+  "regno": 2001287156,
+  "name": "SANDEEP JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c5"
+  },
+  "rollno": "2002139",
+  "regno": 2001287157,
+  "name": "SANKA MANOJ KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c6"
+  },
+  "rollno": "2002140",
+  "regno": 2001287158,
+  "name": "SAPHAL AGARWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c7"
+  },
+  "rollno": "2002141",
+  "regno": 2001287159,
+  "name": "SASWAT DASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c8"
+  },
+  "rollno": "2002142",
+  "regno": 2001287160,
+  "name": "SASWAT PANDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4c9"
+  },
+  "rollno": "2002143",
+  "regno": 2001287161,
+  "name": "SATISH KUMAR KANHAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ca"
+  },
+  "rollno": "2002144",
+  "regno": 2001287162,
+  "name": "SATYA PRAKASH SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4cb"
+  },
+  "rollno": "2002145",
+  "regno": 2001287163,
+  "name": "SATYA RANJAN DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4cc"
+  },
+  "rollno": "2002146",
+  "regno": 2001287164,
+  "name": "SAUMYASHREE STHITAPRANGYA PANDA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4cd"
+  },
+  "rollno": "2002147",
+  "regno": 2001287165,
+  "name": "SAURABH KUMAR GOPE",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ce"
+  },
+  "rollno": "2002148",
+  "regno": 2001287166,
+  "name": "SAWAN CHOURASIA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4cf"
+  },
+  "rollno": "2002149",
+  "regno": 2001287167,
+  "name": "SAYAD HASAN ALLI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d0"
+  },
+  "rollno": "2002151",
+  "regno": 2001287169,
+  "name": "SHANTI SUMAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d1"
+  },
+  "rollno": "2002152",
+  "regno": 2001287170,
+  "name": "SHASWAT SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d2"
+  },
+  "rollno": "2002153",
+  "regno": 2001287171,
+  "name": "SHIBASHISH KUMAR MISHRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d3"
+  },
+  "rollno": "2002154",
+  "regno": 2001287172,
+  "name": "SHIV SAGAR VERMA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d4"
+  },
+  "rollno": "2002155",
+  "regno": 2001287035,
+  "name": "SHIVAM KUMAR SAH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d5"
+  },
+  "rollno": "2002156",
+  "regno": 2001287173,
+  "name": "SHREYA DUTTA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d6"
+  },
+  "rollno": "2002157",
+  "regno": 2001287174,
+  "name": "SHREYA KUMARI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d7"
+  },
+  "rollno": "2002158",
+  "regno": 2001287175,
+  "name": "SIBA PRASAD DASH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d8"
+  },
+  "rollno": "2002159",
+  "regno": 2001287176,
+  "name": "SMRUTIRUPA BISWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4d9"
+  },
+  "rollno": "2002160",
+  "regno": 2001287177,
+  "name": "SOUMYA ARABIND MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4da"
+  },
+  "rollno": "2002161",
+  "regno": 2001287178,
+  "name": "SOUMYA RANJAN JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4db"
+  },
+  "rollno": "2002162",
+  "regno": 2001287179,
+  "name": "SOUMYA RANJAN BISWAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4dc"
+  },
+  "rollno": "2002163",
+  "regno": 2001287334,
+  "name": "SOUMYARANJAN DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4dd"
+  },
+  "rollno": "2005012",
+  "regno": 2001287338,
+  "name": "DEEPAK KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4de"
+  },
+  "rollno": "2005022",
+  "regno": 2001287341,
+  "name": "KUMAR DEVESH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4df"
+  },
+  "rollno": "2102L07",
+  "regno": 2121287037,
+  "name": "DIGANTA MOHANTY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e0"
+  },
+  "rollno": "2102L08",
+  "regno": 2121287050,
+  "name": "SMRUTIRANJAN ROUTRAY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e1"
+  },
+  "rollno": "2102L19",
+  "regno": 2121287040,
+  "name": "KRITI DEPAN BISHOI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e2"
+  },
+  "rollno": "2002164",
+  "regno": 2001287180,
+  "name": "SOURAV NAYAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e3"
+  },
+  "rollno": "2002165",
+  "regno": 2001287181,
+  "name": "SOURAV PALIWAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e4"
+  },
+  "rollno": "2002166",
+  "regno": 2001287335,
+  "name": "SOURAV PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e5"
+  },
+  "rollno": "2002167",
+  "regno": 2001287182,
+  "name": "SRINIBASH PRADHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e6"
+  },
+  "rollno": "2002168",
+  "regno": 2001287183,
+  "name": "SUBHA RANJAN ACHARYA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e7"
+  },
+  "rollno": "2002169",
+  "regno": 2001287036,
+  "name": "SUBHAM KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e8"
+  },
+  "rollno": "2002170",
+  "regno": 2001287184,
+  "name": "SUBHAM KUMAR MISHRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4e9"
+  },
+  "rollno": "2002171",
+  "regno": 2001287185,
+  "name": "SUBHAM SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ea"
+  },
+  "rollno": "2002172",
+  "regno": 2001287186,
+  "name": "SUBHRADEEPA PANIGRAHY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4eb"
+  },
+  "rollno": "2002173",
+  "regno": 2001287187,
+  "name": "SUBHRAJYOTI PATTANAIK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ec"
+  },
+  "rollno": "2002174",
+  "regno": 2001287188,
+  "name": "SUMANTA KUMAR ROUT",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ed"
+  },
+  "rollno": "2002175",
+  "regno": 2001287336,
+  "name": "SUMEET KUMAR MOHAPATRA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ee"
+  },
+  "rollno": "2002176",
+  "regno": 2001287037,
+  "name": "SUMIT KUMAR SINGH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ef"
+  },
+  "rollno": "2002177",
+  "regno": 2001287189,
+  "name": "SUMIT RAJ",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f0"
+  },
+  "rollno": "2002178",
+  "regno": 2001287190,
+  "name": "SUNIL KUMAR NAYAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f1"
+  },
+  "rollno": "2002179",
+  "regno": 2001287191,
+  "name": "SUNIT NAYAK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f2"
+  },
+  "rollno": "2002180",
+  "regno": 2001287192,
+  "name": "SUPRAVAT DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f3"
+  },
+  "rollno": "2002181",
+  "regno": 2001287193,
+  "name": "SURAJ KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f4"
+  },
+  "rollno": "2002182",
+  "regno": 2001287194,
+  "name": "SURBHI SURUCHI",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f5"
+  },
+  "rollno": "2002183",
+  "regno": 2001287195,
+  "name": "SURYA PRATAP DAS",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f6"
+  },
+  "rollno": "2002184",
+  "regno": 2001287196,
+  "name": "SUSHIL KUMAR PUHAN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f7"
+  },
+  "rollno": "2002185",
+  "regno": 2001287197,
+  "name": "SWETAPRIYADARSANI SWAIN",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f8"
+  },
+  "rollno": "2002186",
+  "regno": 2001287198,
+  "name": "TEJASMAYEE MALLICK",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4f9"
+  },
+  "rollno": "2002187",
+  "regno": 2001287199,
+  "name": "TRISANDHYA SAMAL",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4fa"
+  },
+  "rollno": "2002188",
+  "regno": 2001287200,
+  "name": "V PRASANT KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4fb"
+  },
+  "rollno": "2002189",
+  "regno": 2001287201,
+  "name": "VIBEK JENA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4fc"
+  },
+  "rollno": "2002190",
+  "regno": 2001287202,
+  "name": "VISHAL KUMAR",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4fd"
+  },
+  "rollno": "2002191",
+  "regno": 2001287203,
+  "name": "YASHAKETAN ROUTRAY",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4fe"
+  },
+  "rollno": "2002192",
+  "regno": 2001287030,
+  "name": "POOJASHREE BASA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede4ff"
+  },
+  "rollno": "2002193",
+  "regno": 2001287033,
+  "name": "RUCHISMITA SAHOO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede500"
+  },
+  "rollno": "2005061",
+  "regno": 2001287395,
+  "name": "TARACHAND MAHTO",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede501"
+  },
+  "rollno": "2102L02",
+  "regno": 2121287043,
+  "name": "NIRMAL KUMAR BEHERA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede502"
+  },
+  "rollno": "2102L06",
+  "regno": 2121287035,
+  "name": "AMIT GUPTA",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede503"
+  },
+  "rollno": "2102L09",
+  "regno": 2121287042,
+  "name": "MERYLIN RATH",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67bdca7d027ebc3a8bede504"
+  },
+  "rollno": "2102L14",
+  "regno": 2121287041,
+  "name": "KUMARI TANNU",
+  "batch": "2020",
+  "branch": "CSE"
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe0"
+  },
+  "rollno": "2302001",
+  "regno": 2,
+  "name": "ABHISEK BARIK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe1"
+  },
+  "rollno": "2302002",
+  "regno": 2,
+  "name": "ABINASH BISWAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe2"
+  },
+  "rollno": "2302003",
+  "regno": 2,
+  "name": "ABINASH SAHU",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe3"
+  },
+  "rollno": "2302004",
+  "regno": 2,
+  "name": "ADITI KUMARI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe4"
+  },
+  "rollno": "2302005",
+  "regno": 2,
+  "name": "ADITYA KUMAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe5"
+  },
+  "rollno": "2302006",
+  "regno": 2,
+  "name": "ADITYA KUMAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe6"
+  },
+  "rollno": "2302007",
+  "regno": 2,
+  "name": "ADITYA PARIDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe7"
+  },
+  "rollno": "2302008",
+  "regno": 2,
+  "name": "ADITYA PRUSTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe8"
+  },
+  "rollno": "2302009",
+  "regno": 2,
+  "name": "AKHILESH PRUSTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffe9"
+  },
+  "rollno": "2302010",
+  "regno": 2,
+  "name": "ALOK KUMAR SABAT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffea"
+  },
+  "rollno": "2302011",
+  "regno": 2,
+  "name": "AMISHA PRITAM PATRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffeb"
+  },
+  "rollno": "2302012",
+  "regno": 2,
+  "name": "AMIT KUMAR PRADHAN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffec"
+  },
+  "rollno": "2302013",
+  "regno": 2,
+  "name": "AMIT PRIYADARSHI MAJHI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffed"
+  },
+  "rollno": "2302014",
+  "regno": 2,
+  "name": "AMLAN RANJAN RAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffee"
+  },
+  "rollno": "2302015",
+  "regno": 2,
+  "name": "ANKIT KUMAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffef"
+  },
+  "rollno": "2302016",
+  "regno": 2,
+  "name": "ANKIT KUMAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff0"
+  },
+  "rollno": "2302017",
+  "regno": 2,
+  "name": "ANKIT RAJ",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff1"
+  },
+  "rollno": "2302018",
+  "regno": 2,
+  "name": "ANKITA GHOSH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff2"
+  },
+  "rollno": "2302019",
+  "regno": 2,
+  "name": "ANKITA KUMARI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff3"
+  },
+  "rollno": "2302020",
+  "regno": 2,
+  "name": "ANURAG SINGH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff4"
+  },
+  "rollno": "2302021",
+  "regno": 2,
+  "name": "ANUSHKA SAHU",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff5"
+  },
+  "rollno": "2302022",
+  "regno": 2,
+  "name": "ANWESHA DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff6"
+  },
+  "rollno": "2302023",
+  "regno": 2,
+  "name": "ARIYAN BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff7"
+  },
+  "rollno": "2302024",
+  "regno": 2,
+  "name": "ARPITA NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff8"
+  },
+  "rollno": "2302025",
+  "regno": 2,
+  "name": "ARPITA PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fff9"
+  },
+  "rollno": "2302026",
+  "regno": 2,
+  "name": "ARPITA PARIDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fffa"
+  },
+  "rollno": "2302027",
+  "regno": 2,
+  "name": "ARYAN JENA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fffb"
+  },
+  "rollno": "2302028",
+  "regno": 2,
+  "name": "ASHISH PANDIT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fffc"
+  },
+  "rollno": "2302029",
+  "regno": 2,
+  "name": "ASHISH RAJ",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fffd"
+  },
+  "rollno": "2302030",
+  "regno": 2,
+  "name": "ASHUTOSH BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084fffe"
+  },
+  "rollno": "2302031",
+  "regno": 2,
+  "name": "ASHUTOSH MOHANTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04084ffff"
+  },
+  "rollno": "2302032",
+  "regno": 2,
+  "name": "ASHUTOSH PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850000"
+  },
+  "rollno": "2302033",
+  "regno": 2,
+  "name": "ASHWINI KUMAR VISHWAKARMA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850001"
+  },
+  "rollno": "2302034",
+  "regno": 2,
+  "name": "ASISH KUMAR MOHAPATRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850002"
+  },
+  "rollno": "2302176",
+  "regno": 2,
+  "name": "TUSARKANTA POTHAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850003"
+  },
+  "rollno": "2302035",
+  "regno": 2,
+  "name": "ASISH KUMAR NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850004"
+  },
+  "rollno": "2302036",
+  "regno": 2,
+  "name": "AVINASH RAJ",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850005"
+  },
+  "rollno": "2302037",
+  "regno": 2,
+  "name": "AYUSH KUMAR SINGH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850006"
+  },
+  "rollno": "2302038",
+  "regno": 2,
+  "name": "AYUSH NANDAN KUMAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850007"
+  },
+  "rollno": "2302039",
+  "regno": 2,
+  "name": "AYUSHMAN SAMANTARAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850008"
+  },
+  "rollno": "2302040",
+  "regno": 2,
+  "name": "BAISHNABI MISHRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850009"
+  },
+  "rollno": "2302041",
+  "regno": 2,
+  "name": "BIBEKANANDA SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000a"
+  },
+  "rollno": "2302042",
+  "regno": 2,
+  "name": "BIGYAN PRAKASH AICH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000b"
+  },
+  "rollno": "2302043",
+  "regno": 2,
+  "name": "BIJETA MOHAPATRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000c"
+  },
+  "rollno": "2302044",
+  "regno": 2,
+  "name": "BISMAYA BIDYADHAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000d"
+  },
+  "rollno": "2302045",
+  "regno": 2,
+  "name": "BISWA BHUSANA PARIDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000e"
+  },
+  "rollno": "2302046",
+  "regno": 2,
+  "name": "BISWARANJAN ROUT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085000f"
+  },
+  "rollno": "2302047",
+  "regno": 2,
+  "name": "BISWO BISMAY PARHI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850010"
+  },
+  "rollno": "2302048",
+  "regno": 2,
+  "name": "BUNTY BHAINSA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850011"
+  },
+  "rollno": "2302049",
+  "regno": 2,
+  "name": "D NIKITA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850012"
+  },
+  "rollno": "2302050",
+  "regno": 2,
+  "name": "DEBAJYOTI UPADHAYAYA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850013"
+  },
+  "rollno": "2302051",
+  "regno": 2,
+  "name": "DEBDULAL SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850014"
+  },
+  "rollno": "2302052",
+  "regno": 2,
+  "name": "DIBYAJYOTI MAHARANA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850015"
+  },
+  "rollno": "2302053",
+  "regno": 2,
+  "name": "DIBYARANJAN PRADHAN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850016"
+  },
+  "rollno": "2302054",
+  "regno": 2,
+  "name": "DIPTIRANJAN BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850017"
+  },
+  "rollno": "2302055",
+  "regno": 2,
+  "name": "DOLLY KUMARI VERMA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850018"
+  },
+  "rollno": "2302056",
+  "regno": 2,
+  "name": "GAGAN PRAJAPATI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850019"
+  },
+  "rollno": "2302057",
+  "regno": 2,
+  "name": "GAJANAN SATAPATHY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001a"
+  },
+  "rollno": "2302058",
+  "regno": 2,
+  "name": "GOURAV PRAKASH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001b"
+  },
+  "rollno": "2302059",
+  "regno": 2,
+  "name": "HARSH RAJ",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001c"
+  },
+  "rollno": "2302060",
+  "regno": 2,
+  "name": "HIMESH NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001d"
+  },
+  "rollno": "2302061",
+  "regno": 2,
+  "name": "HRUSIKESH PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001e"
+  },
+  "rollno": "2302062",
+  "regno": 2,
+  "name": "IPSITA PRIYADARSHINI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085001f"
+  },
+  "rollno": "2302063",
+  "regno": 2,
+  "name": "JAGADISH RAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850020"
+  },
+  "rollno": "2302064",
+  "regno": 2,
+  "name": "JAJNASENI MISHRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850021"
+  },
+  "rollno": "2302065",
+  "regno": 2,
+  "name": "JASOBANTA PARIDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850022"
+  },
+  "rollno": "2302066",
+  "regno": 2,
+  "name": "JATIN SANKAR JAGDDEV",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850023"
+  },
+  "rollno": "2302067",
+  "regno": 2,
+  "name": "JAYNARAYAN PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850024"
+  },
+  "rollno": "2302068",
+  "regno": 2,
+  "name": "JAYOTI RANJAN SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850025"
+  },
+  "rollno": "2302069",
+  "regno": 2,
+  "name": "JYOTI PRAKASH JENA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850026"
+  },
+  "rollno": "2302070",
+  "regno": 2,
+  "name": "JYOTI PRAKASH TRIPATHY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850027"
+  },
+  "rollno": "2302071",
+  "regno": 2,
+  "name": "JYOTI SWARUP PARHI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850028"
+  },
+  "rollno": "2302072",
+  "regno": 2,
+  "name": "JYOTIRMAYEE ROUT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850029"
+  },
+  "rollno": "2302073",
+  "regno": 2,
+  "name": "KAIBALYA PRASAD BEHURA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002a"
+  },
+  "rollno": "2302074",
+  "regno": 2,
+  "name": "KAUSHIK DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002b"
+  },
+  "rollno": "2302075",
+  "regno": 2,
+  "name": "KHARANSHU SEKHAR DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002c"
+  },
+  "rollno": "2302076",
+  "regno": 2,
+  "name": "KHUSHI GUPTA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002d"
+  },
+  "rollno": "2302077",
+  "regno": 2,
+  "name": "KIRANBALA SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002e"
+  },
+  "rollno": "2302078",
+  "regno": 2,
+  "name": "KRISHNA MAYEE MALLA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085002f"
+  },
+  "rollno": "2302079",
+  "regno": 2,
+  "name": "KUMAR ANMOL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850030"
+  },
+  "rollno": "2302080",
+  "regno": 2,
+  "name": "KUMAR OMM PRAKASH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850031"
+  },
+  "rollno": "2302081",
+  "regno": 2,
+  "name": "LISA BAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850032"
+  },
+  "rollno": "2302082",
+  "regno": 2,
+  "name": "LOVELY SHARMA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850033"
+  },
+  "rollno": "2302083",
+  "regno": 2,
+  "name": "M PREM KUMAR PAIKARAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850034"
+  },
+  "rollno": "2302084",
+  "regno": 2,
+  "name": "MANAS RANJAN SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850035"
+  },
+  "rollno": "2302085",
+  "regno": 2,
+  "name": "MANISA MOHANTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850036"
+  },
+  "rollno": "2302086",
+  "regno": 2,
+  "name": "MANMAYEE CHOUDHURY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850037"
+  },
+  "rollno": "2302087",
+  "regno": 2,
+  "name": "MD SAQUIB ALAM",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850038"
+  },
+  "rollno": "2302088",
+  "regno": 2,
+  "name": "MOHAMMED SAQLAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850039"
+  },
+  "rollno": "2302089",
+  "regno": 2,
+  "name": "MOURYA SMARAK ROUTRAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003a"
+  },
+  "rollno": "2302090",
+  "regno": 2,
+  "name": "MRUTYUNJAY BAHINIPATI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003b"
+  },
+  "rollno": "2302091",
+  "regno": 2,
+  "name": "NAYAN KUMAR DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003c"
+  },
+  "rollno": "2302092",
+  "regno": 2,
+  "name": "NIGAMANANDA SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003d"
+  },
+  "rollno": "2302093",
+  "regno": 2,
+  "name": "OM PRADHAN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003e"
+  },
+  "rollno": "2302177",
+  "regno": 2,
+  "name": "UPASANA MOHANTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085003f"
+  },
+  "rollno": "2302094",
+  "regno": 2,
+  "name": "OMM PRAKASH SAHU",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850040"
+  },
+  "rollno": "2302095",
+  "regno": 2,
+  "name": "OMM SOURABHA CHHOTARAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850041"
+  },
+  "rollno": "2302096",
+  "regno": 2,
+  "name": "PIYUSH KUMAR JHA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850042"
+  },
+  "rollno": "2302097",
+  "regno": 2,
+  "name": "POONAM PRIYADARSHINI HATI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850043"
+  },
+  "rollno": "2302098",
+  "regno": 2,
+  "name": "PRAMOD KISHOR MURMU",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850044"
+  },
+  "rollno": "2302099",
+  "regno": 2,
+  "name": "PRASANJIT BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850045"
+  },
+  "rollno": "2302100",
+  "regno": 2,
+  "name": "PRASANN SAMAIYAR",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850046"
+  },
+  "rollno": "2302101",
+  "regno": 2,
+  "name": "PRITI PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850047"
+  },
+  "rollno": "2302102",
+  "regno": 2,
+  "name": "PRITIMAYEE NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850048"
+  },
+  "rollno": "2302103",
+  "regno": 2,
+  "name": "PRITIRANJAN ROUT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850049"
+  },
+  "rollno": "2302104",
+  "regno": 2,
+  "name": "PRITISHA PATTNAIK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004a"
+  },
+  "rollno": "2302105",
+  "regno": 2,
+  "name": "PRIYADARSHINEE PALEI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004b"
+  },
+  "rollno": "2302106",
+  "regno": 2,
+  "name": "PRIYANKA PRIYADARSHINI PRADHAN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004c"
+  },
+  "rollno": "2302107",
+  "regno": 2,
+  "name": "PRUTHIRAJ DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004d"
+  },
+  "rollno": "2302108",
+  "regno": 2,
+  "name": "RAJALAXMI BISWAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004e"
+  },
+  "rollno": "2302109",
+  "regno": 2,
+  "name": "RAJESH MAHANKUD",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085004f"
+  },
+  "rollno": "2302110",
+  "regno": 2,
+  "name": "RAKESH KUMAR DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850050"
+  },
+  "rollno": "2302111",
+  "regno": 2,
+  "name": "RASHMI RANJAN CHOUDHURY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850051"
+  },
+  "rollno": "2302112",
+  "regno": 2,
+  "name": "RIMA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850052"
+  },
+  "rollno": "2302113",
+  "regno": 2,
+  "name": "RITIK ROSHAN DASH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850053"
+  },
+  "rollno": "2302114",
+  "regno": 2,
+  "name": "RITU RAJ",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850054"
+  },
+  "rollno": "2302115",
+  "regno": 2,
+  "name": "RITUPARNA LENKA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850055"
+  },
+  "rollno": "2302116",
+  "regno": 2,
+  "name": "RONIT MALLICK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850056"
+  },
+  "rollno": "2302117",
+  "regno": 2,
+  "name": "ROSALIN SATAPATHY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850057"
+  },
+  "rollno": "2302118",
+  "regno": 2,
+  "name": "RUDRA PRASAD SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850058"
+  },
+  "rollno": "2302119",
+  "regno": 2,
+  "name": "SABYASACHI NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850059"
+  },
+  "rollno": "2302120",
+  "regno": 2,
+  "name": "SAI OM PRAKASH BARIK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005a"
+  },
+  "rollno": "2302121",
+  "regno": 2,
+  "name": "SAI SANJALI MOHANTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005b"
+  },
+  "rollno": "2302122",
+  "regno": 2,
+  "name": "SAIKH MAMLUK TAKI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005c"
+  },
+  "rollno": "2302123",
+  "regno": 2,
+  "name": "SAINA PARWEEN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005d"
+  },
+  "rollno": "2302124",
+  "regno": 2,
+  "name": "SAIRANJAN BEHURA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005e"
+  },
+  "rollno": "2302125",
+  "regno": 2,
+  "name": "SAMEER KUMAR DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085005f"
+  },
+  "rollno": "2302126",
+  "regno": 2,
+  "name": "SAMIKSHYA SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850060"
+  },
+  "rollno": "2302127",
+  "regno": 2,
+  "name": "SANDHYA SUNIDHI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850061"
+  },
+  "rollno": "2302128",
+  "regno": 2,
+  "name": "SANJANA NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850062"
+  },
+  "rollno": "2302129",
+  "regno": 2,
+  "name": "SANJAY KUMAR SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850063"
+  },
+  "rollno": "2302130",
+  "regno": 2,
+  "name": "SANJAY KUMAR SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850064"
+  },
+  "rollno": "2302131",
+  "regno": 2,
+  "name": "SANTOSH KUMAR BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850065"
+  },
+  "rollno": "2302132",
+  "regno": 2,
+  "name": "SATYA PRAKASH SHEE",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850066"
+  },
+  "rollno": "2302133",
+  "regno": 2,
+  "name": "SAURAV KUMAR SONI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850067"
+  },
+  "rollno": "2302134",
+  "regno": 2,
+  "name": "SAYAN SHRIANSH PAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850068"
+  },
+  "rollno": "2302135",
+  "regno": 2,
+  "name": "SHIMIT PATHAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850069"
+  },
+  "rollno": "2302136",
+  "regno": 2,
+  "name": "SHIVANANDA PRIYADARSHI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006a"
+  },
+  "rollno": "2302137",
+  "regno": 2,
+  "name": "SHRABANI MONDAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006b"
+  },
+  "rollno": "2302138",
+  "regno": 2,
+  "name": "SHREYA PANDEY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006c"
+  },
+  "rollno": "2302139",
+  "regno": 2,
+  "name": "SHRUTI KUMARI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006d"
+  },
+  "rollno": "2302140",
+  "regno": 2,
+  "name": "SIBANGINI PANI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006e"
+  },
+  "rollno": "2302141",
+  "regno": 2,
+  "name": "SIBASHISH NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085006f"
+  },
+  "rollno": "2302142",
+  "regno": 2,
+  "name": "SIDHARTHA MAHAPATRA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850070"
+  },
+  "rollno": "2302143",
+  "regno": 2,
+  "name": "SIMPY JAISWAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850071"
+  },
+  "rollno": "2302144",
+  "regno": 2,
+  "name": "SK MOHAMMED ABDULLAH",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850072"
+  },
+  "rollno": "2302145",
+  "regno": 2,
+  "name": "SMRUTI SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850073"
+  },
+  "rollno": "2302146",
+  "regno": 2,
+  "name": "SNEHARANI KHUNTIA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850074"
+  },
+  "rollno": "2302147",
+  "regno": 2,
+  "name": "SOMALI SUBHASMITA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850075"
+  },
+  "rollno": "2302148",
+  "regno": 2,
+  "name": "SOUMYA PRIYADARSHINI PARIDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850076"
+  },
+  "rollno": "2302149",
+  "regno": 2,
+  "name": "SOUMYA RANJAN BASANTARA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850077"
+  },
+  "rollno": "2302150",
+  "regno": 2,
+  "name": "SOUMYA RANJAN PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850078"
+  },
+  "rollno": "2302151",
+  "regno": 2,
+  "name": "SREETAM KUMAR PANDA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850079"
+  },
+  "rollno": "2302152",
+  "regno": 2,
+  "name": "SREYANSHU PRATIK PAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007a"
+  },
+  "rollno": "2302178",
+  "regno": 2,
+  "name": "VARSHA KUMARI",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007b"
+  },
+  "rollno": "2302153",
+  "regno": 2,
+  "name": "SRI ADITYA KUMAR NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007c"
+  },
+  "rollno": "2302154",
+  "regno": 2,
+  "name": "SRUJAN SATTWIK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007d"
+  },
+  "rollno": "2302155",
+  "regno": 2,
+  "name": "SRUSTI SANKITA PUROHIT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007e"
+  },
+  "rollno": "2302156",
+  "regno": 2,
+  "name": "STITI PRAGYAN SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085007f"
+  },
+  "rollno": "2302157",
+  "regno": 2,
+  "name": "SUBHAJYOTI PAIKARAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850080"
+  },
+  "rollno": "2302158",
+  "regno": 2,
+  "name": "SUBHALAXMI SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850081"
+  },
+  "rollno": "2302159",
+  "regno": 2,
+  "name": "SUBHANKAR CHHOTARAY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850082"
+  },
+  "rollno": "2302160",
+  "regno": 2,
+  "name": "SUBHANKAR DAS",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850083"
+  },
+  "rollno": "2302161",
+  "regno": 2,
+  "name": "SUBHASHISH PRADHAN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850084"
+  },
+  "rollno": "2302162",
+  "regno": 2,
+  "name": "SUBHASIS MALLICK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850085"
+  },
+  "rollno": "2302163",
+  "regno": 2,
+  "name": "SUBHASIS PRIYADARSHI SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850086"
+  },
+  "rollno": "2302164",
+  "regno": 2,
+  "name": "SUBHENDU MOHANTY",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850087"
+  },
+  "rollno": "2302165",
+  "regno": 2,
+  "name": "SUBHRANSU SUBHADARSHAN SAHOO",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850088"
+  },
+  "rollno": "2302166",
+  "regno": 2,
+  "name": "SUDHANSU SEKHAR BEHERA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850089"
+  },
+  "rollno": "2302167",
+  "regno": 2,
+  "name": "SUMIT KUMAR JHA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008a"
+  },
+  "rollno": "2302168",
+  "regno": 2,
+  "name": "SUMIT SAHU",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008b"
+  },
+  "rollno": "2302169",
+  "regno": 2,
+  "name": "SWABHIMAN LENKA",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008c"
+  },
+  "rollno": "2302170",
+  "regno": 2,
+  "name": "SWAYANSHU SAMAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008d"
+  },
+  "rollno": "2302171",
+  "regno": 2,
+  "name": "SWETAMADHULAGNA BISWAL",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008e"
+  },
+  "rollno": "2302172",
+  "regno": 2,
+  "name": "SWETAPADMA ROUT",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e04085008f"
+  },
+  "rollno": "2302173",
+  "regno": 2,
+  "name": "TANIA BANERJEE",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850090"
+  },
+  "rollno": "2302174",
+  "regno": 2,
+  "name": "TANMAYA KUMAR SWAIN",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d6bec0a522e040850091"
+  },
+  "rollno": "2302175",
+  "regno": 2,
+  "name": "TATTWAMASHI NAYAK",
+  "batch": "2023",
+  "branch": "CSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1d833c0a522e040850096"
+  },
+  "rollno": "2402L26",
+  "regno": 2421287042,
+  "name": "SANKARSAN PRADHAN",
+  "batch": "2024",
+  "branch": "CSE",
+  "__v": 0
+}]

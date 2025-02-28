@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "67a06d0c262bc8cf9399dc2a"
+  },
+  "rollno": "2302099",
+  "dateandtime": {
+    "day": "3",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "3-2-2025",
+    "hours": "12",
+    "mins": "45",
+    "a": "AM",
+    "_id": {
+      "$oid": "67a06d0c262bc8cf9399dc2b"
+    }
+  },
+  "head": "Vapour",
+  "text": "Vapour Images are really Good to see....",
+  "postimage": "/uploads/posts/2302099-1738566924555.jpg",
+  "comments": [
+    {
+      "text": "हो WhatsApp op bike",
+      "author": "2304020",
+      "dateandtime": {
+        "day": "8",
+        "month": "2",
+        "year": "2025",
+        "dateStr": "8-2-2025",
+        "hours": "1",
+        "mins": "05",
+        "a": "AM",
+        "_id": {
+          "$oid": "67a6609feb15a54779ef998b"
+        }
+      },
+      "_id": {
+        "$oid": "67a6609feb15a54779ef998a"
+      }
+    }
+  ],
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "67a0731a16bacc385556095a"
+  },
+  "rollno": "2402L26",
+  "dateandtime": {
+    "day": "3",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "3-2-2025",
+    "hours": "01",
+    "mins": "11",
+    "a": "PM",
+    "_id": {
+      "$oid": "67a0731a16bacc385556095b"
+    }
+  },
+  "head": "Image ",
+  "text": "Image is the real reflection.",
+  "postimage": "/uploads/posts/2402L26-1738568474241.jpg",
+  "comments": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67a7a299dd6bb9c9c400427d"
+  },
+  "rollno": "2310009",
+  "dateandtime": {
+    "day": "8",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "8-2-2025",
+    "hours": "11",
+    "mins": "59",
+    "a": "PM",
+    "_id": {
+      "$oid": "67a7a299dd6bb9c9c400427e"
+    }
+  },
+  "head": "Lingraj Temple Bhubaneswar ",
+  "text": "I visited the Lingaraj temple at Bhubaneswar today.",
+  "postimage": "/uploads/posts/2310009-1739039385937.jpg",
+  "comments": [
+    {
+      "text": "Om Namah shivaya 🙏🏻🙏🏻",
+      "author": "2310009",
+      "dateandtime": {
+        "day": "9",
+        "month": "2",
+        "year": "2025",
+        "dateStr": "9-2-2025",
+        "hours": "12",
+        "mins": "00",
+        "a": "AM",
+        "_id": {
+          "$oid": "67a7a2e0dd6bb9c9c400428b"
+        }
+      },
+      "_id": {
+        "$oid": "67a7a2e0dd6bb9c9c400428a"
+      }
+    },
+    {
+      "text": "Well !",
+      "author": "2305054",
+      "dateandtime": {
+        "day": "13",
+        "month": "2",
+        "year": "2025",
+        "dateStr": "13-2-2025",
+        "hours": "08",
+        "mins": "44",
+        "a": "PM",
+        "_id": {
+          "$oid": "67ae0c5aa41ebf1d6ba219df"
+        }
+      },
+      "_id": {
+        "$oid": "67ae0c5aa41ebf1d6ba219de"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "67ae0e6aa41ebf1d6ba21a13"
+  },
+  "rollno": "2305054",
+  "dateandtime": {
+    "day": "13",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "13-2-2025",
+    "hours": "08",
+    "mins": "53",
+    "a": "PM",
+    "_id": {
+      "$oid": "67ae0e6aa41ebf1d6ba21a14"
+    }
+  },
+  "head": "IMAGE VIBES",
+  "text": "This is an image for testing of the site.",
+  "postimage": "/uploads/posts/2305054-1739460202206.jpg",
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aee86b1b0436a46823e7df"
+  },
+  "rollno": "2305054",
+  "dateandtime": {
+    "day": "14",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "14-2-2025",
+    "hours": "12",
+    "mins": "23",
+    "a": "AM",
+    "_id": {
+      "$oid": "67aee86b1b0436a46823e7e0"
+    }
+  },
+  "head": "MS Dhoni",
+  "text": "Thala For A reason 7",
+  "postimage": "/uploads/posts/2305054-1739516011241.jpg",
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9952082a469b42a253367"
+  },
+  "rollno": "2302094",
+  "dateandtime": {
+    "day": "22",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "22-2-2025",
+    "hours": "02",
+    "mins": "43",
+    "a": "PM",
+    "_id": {
+      "$oid": "67b9952082a469b42a253368"
+    }
+  },
+  "head": "Screenshot",
+  "text": "My Image",
+  "postimage": "/uploads/posts/2302094-1740215584309.png",
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c085054d3bb32495722cac"
+  },
+  "rollno": "2302079",
+  "dateandtime": {
+    "day": "27",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "27-2-2025",
+    "hours": "09",
+    "mins": "00",
+    "a": "PM",
+    "_id": {
+      "$oid": "67c085054d3bb32495722cad"
+    }
+  },
+  "head": "Night view ",
+  "text": "Loves evening ",
+  "postimage": "/uploads/posts/2302079-1740670212922.jpg",
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1f3cc358a7e4d40b23ac7"
+  },
+  "rollno": "2402L26",
+  "dateandtime": {
+    "day": "28",
+    "month": "2",
+    "year": "2025",
+    "dateStr": "28-2-2025",
+    "hours": "11",
+    "mins": "05",
+    "a": "PM",
+    "_id": {
+      "$oid": "67c1f3cc358a7e4d40b23ac8"
+    }
+  },
+  "head": "My mother is my closest, best, and most enduring friend",
+  "text": "God could not be everywhere, and therefore he made mothers",
+  "postimage": "/uploads/posts/2402L26-1740764108731.jpg",
+  "comments": [],
+  "__v": 0
+}]

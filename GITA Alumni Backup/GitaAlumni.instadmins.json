@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "679f0e698e8c542dcef681f5"
+  },
+  "name": "INADM1",
+  "empId": "INADM1",
+  "password": "INADM1",
+  "mobno": "9856327415",
+  "mailid": "inadm1@gita.edu.in",
+  "remark": "Added by default"
+},
+{
+  "_id": {
+    "$oid": "67b4bb88de201b028bb7388f"
+  },
+  "name": "INADM2",
+  "empId": "INADM2",
+  "password": "INADM2",
+  "mobno": "8529635741",
+  "mailid": "inadm2@gita.edu.in",
+  "remark": "Added By Default Admin",
+  "__v": 0
+}]

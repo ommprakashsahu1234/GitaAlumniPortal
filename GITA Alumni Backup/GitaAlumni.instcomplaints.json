@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67b4cd26bcb8ee65376d3262"
+  },
+  "empId": "INADM1",
+  "complaint": "Unable to edit Student Details.",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "ADMIN",
+  "response": "Well"
+},
+{
+  "_id": {
+    "$oid": "67b4deabe15a02ea14840241"
+  },
+  "empId": "INADM1",
+  "complaint": "I am unable to edit the student profile ",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "ADMIN",
+  "response": "That facility will be available soon."
+},
+{
+  "_id": {
+    "$oid": "67c1f45d358a7e4d40b23afb"
+  },
+  "empId": "INADM1",
+  "complaint": "Cannot edit Student Details.",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "ADMIN",
+  "response": "Can edit soon."
+}]

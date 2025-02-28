@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "67b4a47f2a2133b05b2d7ef1"
+  },
+  "name": "Omm Prakash Sahu",
+  "empId": "ADMIN",
+  "password": "PASSWORD",
+  "mobno": "8144219523",
+  "mailid": "opsommprakash+alumniportalhead@outlook.com",
+  "role": "Head Admin"
+}]

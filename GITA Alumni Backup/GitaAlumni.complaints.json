@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "67a64ff3d6b0df0e9820d394"
+  },
+  "rollno": "2302099",
+  "title": "Want to edit details",
+  "complaint": "I want to edit some details of which edit facilities are not available . ",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "Please create a new Complaint Ticket and mention all the old details and new details that are to be updated at once. We will verify and update your details accordingly.",
+  "respby": "INADM1"
+},
+{
+  "_id": {
+    "$oid": "67a65ff6eb15a54779ef997b"
+  },
+  "rollno": "2304020",
+  "title": "Technical Glitches",
+  "complaint": "Our software 😅is not working",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "It will work properly soon...",
+  "respby": "ADMIN"
+},
+{
+  "_id": {
+    "$oid": "67a738a45d9da1201287cb03"
+  },
+  "rollno": "2310009",
+  "title": "Account Related Issues",
+  "complaint": "Not able to update my email ",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "It may be a glitch. Try after some times....",
+  "respby": "ADMIN"
+},
+{
+  "_id": {
+    "$oid": "67aee9351b0436a46823e7fd"
+  },
+  "rollno": "2305054",
+  "title": "Service Downtime",
+  "complaint": "Issue with Site Responsiveness",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "It will work properly soon..."
+},
+{
+  "_id": {
+    "$oid": "67af1f969b3cd2667d857362"
+  },
+  "rollno": "2305054",
+  "title": "Responsiveness Issues",
+  "complaint": "issues Overloaded",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "Okay",
+  "respby": "INADM1"
+},
+{
+  "_id": {
+    "$oid": "67b49d2c8d81d4cbf037bf2a"
+  },
+  "rollno": "2302094",
+  "title": "Wrong Details fetched",
+  "complaint": "Some of my details are fetched wrong from another student data.",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "response": "Give a mail at \"opsommprakash+alumniportal@outlook.com\"\r\nwith subject as your complaint Id and mention the rollno and the screenshots of the issues in the Complaint Body.",
+  "respby": "INADM1"
+},
+{
+  "_id": {
+    "$oid": "67b4c13283cb9799c8079be0"
+  },
+  "rollno": "2302094",
+  "title": "Responsiveness Issues",
+  "complaint": "Responsiveness Issues Found.",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "ADMIN",
+  "response": "Will be solved soon."
+},
+{
+  "_id": {
+    "$oid": "67b4ddc3e15a02ea14840231"
+  },
+  "rollno": "2302094",
+  "title": "Want to edit details",
+  "complaint": "I am unable to edit my details\r\n",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "INADM1",
+  "response": "Solving soon"
+},
+{
+  "_id": {
+    "$oid": "67b4de5de15a02ea1484023a"
+  },
+  "rollno": "2302094",
+  "title": "Responsiveness Issues",
+  "complaint": "Responsiveness Issue Arises.",
+  "issuetype": "Account Related",
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b620bc16a083ba114468e5"
+  },
+  "rollno": "2307006",
+  "title": "Account Related Issues",
+  "complaint": "I don't know ",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "INADM1",
+  "response": "You need not to know"
+},
+{
+  "_id": {
+    "$oid": "67b6229a16a083ba11446909"
+  },
+  "rollno": "2302094",
+  "title": "Service Downtime",
+  "complaint": "Service Not Available issue\r\n",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "INADM1",
+  "response": "That may be a Glitch. Will be solved soon."
+},
+{
+  "_id": {
+    "$oid": "67c0b850c528b1e6bf4ffd75"
+  },
+  "rollno": "2302094",
+  "title": "Others",
+  "complaint": "Want to stop mail notifications.",
+  "issuetype": "Account Related",
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1b4b3fa27c85ac701a974"
+  },
+  "rollno": "2402L26",
+  "title": "Technical Glitches",
+  "complaint": "Some times operation fails",
+  "issuetype": "Details Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "INADM1",
+  "response": "Will be resolved soon."
+},
+{
+  "_id": {
+    "$oid": "67c1f401358a7e4d40b23ad4"
+  },
+  "rollno": "2402L26",
+  "title": "Want to edit details",
+  "complaint": "I want edit my mobile number ",
+  "issuetype": "Account Related",
+  "status": "Resolved",
+  "__v": 0,
+  "respby": "ADMIN",
+  "response": "Can edit at /update"
+}]
