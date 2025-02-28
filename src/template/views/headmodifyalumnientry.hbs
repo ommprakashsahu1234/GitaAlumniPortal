@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+
+    <style>
+        body {
+            background-color: #121212;
+        }
+
+        .navbar,
+        .table,
+        h2,
+        th,
+        td,
+        label,
+        .form-control {
+            color: #FFF;
+        }
+
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+        }
+
+        h1 {
+            color: rgb(255, 255, 255);
+        }
+
+        h4 {
+            color: rgb(91, 162, 255);
+        }
+
+        .form-control {
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .reg:hover {
+            box-shadow: 0 0 10px 5px rgba(0, 123, 255, 0.75);
+            transition: box-shadow 0.3s ease-in-out;
+        }
+
+        .required {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Make the table horizontally scrollable on small devices */
+        .table-responsive {
+            overflow-x: auto;
+        }
+
+        /* Profile Image Styling */
+        .profile-img {
+            width: 50px;
+            height: 50px;
+            border: 2px solid #fff;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+
+    {{>loginregisterheader}}
+
+    <div class="container mt-5">
+        <div id="messages">
+            {{#if success}}
+            <div class="alert alert-success">{{success}}</div>
+            {{/if}}
+            {{#if warn}}
+            <div class="alert alert-warning">{{warn}}</div>
+            {{/if}}
+        </div>
+
+        <h2 class="text-center mb-4">Student Records</h2>
+
+        <div class="table-responsive">
+            <table class="table table-dark table-hover table-bordered text-center align-middle">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Roll No</th>
+                        <th>Profile Image</th>
+                        <th>Name</th>
+                        <th>Branch</th>
+                        <th>Batch</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each students}}
+                    <tr>
+                        <td>{{this.rollno}}</td>
+                        <td>
+                            <img src="../../{{this.profileimg}}" alt="Profile Image" class="profile-img">
+                        </td>
+                        <td>{{this.name}}</td>
+                        <td>{{this.branch}}</td>
+                        <td>{{this.batch}}</td>
+                        <td>
+                            <a href="/headadmin/editalumni/{{this.rollno}}">
+                                <button class="btn btn-success p-1">
+                                    <img src="../public/images/edit.png" alt="Edit" width="20" height="20">
+                                </button>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="/headadmin/deletealumni/{{this.rollno}}">
+                                <button class="btn btn-danger p-1">
+                                    <img src="../public/images/delete.png" alt="Delete" width="20" height="20">
+                                </button>
+                            </a>
+                        </td>
+                    </tr>
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Bootstrap Bundle JS -->
+    <script src="../public/js/bootstrap.bundle.js"></script>
+
+    <!-- Prevent Form Resubmission on Refresh -->
+    <script>
+        if (window.history.replaceState) {
+            window.history.replaceState(null, null, window.location.href);
+        }
+
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Ensure elements exist before setting values
+        document.addEventListener("DOMContentLoaded", function () {
+            const nameField = document.getElementById("name");
+            const rollnoField = document.getElementById("rollno");
+            const batchSelect = document.getElementById("batch");
+
+            if (nameField) {
+                nameField.value = getQueryParam("nameValue") || "";
+            }
+            if (rollnoField) {
+                rollnoField.value = getQueryParam("rollnoValue") || "";
+            }
+            if (batchSelect) {
+                const batchValue = getQueryParam("batchValue");
+                if (batchValue) {
+                    for (let option of batchSelect.options) {
+                        if (option.value === batchValue) {
+                            option.selected = true;
+                            break;
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+
+    {{>footer}}
+
+</body>
+</html>

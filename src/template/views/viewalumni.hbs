@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap 5 CSS -->
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css"> <!-- Bootstrap 5 CSS -->
+    <!-- Your custom styles (styles.css) -->
+    <link rel="stylesheet" href="../public/css/styles.css"> <!-- Your custom styles -->
+    <title>Alumni Data</title>
+    <style>
+        .navbar,
+        .form-control,
+        label {
+            color: #fff;
+            /* White text for navbar and form controls */
+        }
+
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            /* Slightly transparent background */
+            padding: 30px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+            /* Border around the form section */
+        }
+
+        .form-container h2 {
+            color: #fff;
+        }
+
+        h2 {
+            color: rgb(255, 255, 255);
+        }
+
+        input {
+            color: black;
+        }
+
+        .form-control {
+            color: #000;
+
+            background-color: rgba(255, 255, 255, 0.8);
+
+        }
+
+        .warn {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation Bar (Optional) -->
+    {{>mainheader}}
+
+    <div class="container mt-5">
+        <div id="messages">
+            {{#if warn}}
+            <div class="alert alert-warning">{{warn}}</div>
+            {{/if}}
+        </div>
+        <table class="table table-bordered table-striped">
+            <tbody class="table-dark">
+                <tr>
+                    <th>Profile Image</th>
+                    <td class="text-center align-middle">
+                        <img src="../../{{profileimg}}" alt="Profile Image" class="rounded-circle d-block mx-auto"
+                            style="width: 125px; height: 125px;">
+                    </td>
+
+                </tr>
+
+                <tr>
+                    <th>Name</th>
+                    <td>{{name}}</td>
+                </tr>
+                <tr>
+                    <th>Roll</th>
+                    <td>{{rollno}}</td>
+                </tr>
+
+                <tr>
+                    <th>Skill</th>
+                    <td>{{skill}}</td>
+                </tr>
+
+                <tr>
+                    <th>Branch</th>
+                    <td>{{branch}}</td>
+                </tr>
+                <tr>
+                    <th>Batch</th>
+                    <td>{{batch}}</td>
+                </tr>
+                {{#if (eq mobno.access "public")}}
+                    <tr>
+                        <th>Mob No</th>
+                        <td>{{mobno.mobno}}</td>
+                    </tr>
+                    {{/if}}
+                <tr>
+                    <th>Email</th>
+                    <td>{{mailid}}</td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td>{{CompleteAddress}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <!-- Bootstrap 5 JS file -->
+    <script src="../public/js/bootstrap.bundle.js"></script> <!-- Bootstrap 5 JS -->
+    {{>footer}}
+</body>
+
+</html>
+<script>
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>

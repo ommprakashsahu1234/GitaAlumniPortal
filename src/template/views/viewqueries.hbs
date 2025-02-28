@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <title>Queries</title>
+    <style>
+
+        .query-card {
+            background-color: #343a40;
+            /* Dark background */
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            color: #fff;
+            /* White text color for contrast */
+        }
+
+        .query-header {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #f8f9fa;
+            /* Light color for header */
+        }
+
+        .query-text {
+            font-size: 1.5rem;
+            margin-top: 10px;
+            color: #e9ecef;
+            /* Light color for query text */
+        }
+
+        .reply-section {
+            margin-top: 20px;
+        }
+
+        .reply-card {
+            background-color: #495057;
+            /* Darker background for replies */
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            color: #fff;
+            /* White text for replies */
+        }
+
+        .reply-header {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #007bff;
+            /* Blue color for reply header */
+        }
+
+        .reply-text {
+            font-size: 1.1rem;
+            margin-top: 5px;
+            color: #d1d1d1;
+            /* Lighter color for reply text */
+        }
+
+        .comment-input {
+            margin-top: 20px;
+            background-color: #343a40;
+            /* Dark background for input section */
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        textarea.form-control {
+            background-color: #495057;
+            /* Dark background for textarea */
+            color: #fff;
+            /* White text in textarea */
+            border: 1px solid #6c757d;
+            /* Light border for textarea */
+        }
+
+        button.btn-primary {
+            background-color: #007bff;
+            /* Blue button */
+            border-color: #007bff;
+            /* Button border */
+        }
+
+        button.btn-primary:hover {
+            background-color: #0056b3;
+            /* Darker blue on hover */
+            border-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+    {{>mainheader}}
+
+    <div class="container mt-5">
+        <h2 class="text-center text-warning">Queries</h2>
+
+        <div class="container mt-5">
+            {{#each queries}}
+            <div class="query-card">
+                <div class="query-header">
+                    <small>{{this.rollno}}</small> - {{this.name}}
+                </div>
+                <div class="query-text">
+                    {{this.query}}
+                </div>
+
+                <div class="reply-section">
+                    <h5 class="text-info">Comments:</h5>
+                    {{#if this.replies.length}}
+                    {{#each this.replies}}
+                    <div class="reply-card">
+                        <div class="reply-header">
+                            <small>{{this.name}} ({{this.rollno}})</small>
+                        </div>
+                        <div class="reply-text">
+                            {{this.reply}}
+                        </div>
+                    </div>
+                    {{/each}}
+                    {{else}}
+                    <p class="text-muted">No comments yet.</p>
+                    {{/if}}
+                </div>
+
+                <div class="comment-input">
+                    <form action="/addqueryresponse" method="POST">
+                        <div class="mb-3">
+                            <label for="comment" class="form-label">Add a Comment</label>
+                            <textarea class="form-control" id="comment" name="comment" rows="3"></textarea>
+                        </div>
+                        <input type="hidden" name="queryId" value="{{this._id}}">
+                        <button type="submit" class="btn btn-primary">Submit Comment</button>
+                    </form>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+
+    </div>
+
+    {{>footer}}
+
+    <script src="../public/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>
+
+<script>
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>

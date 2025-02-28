@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css"> <!-- Bootstrap 5 CSS -->
+    <link rel="stylesheet" href="../public/css/styles.css"> <!-- Your custom styles -->
+    <title>Register a Complaint</title>
+    <style>
+
+        .container {
+            margin-top: 50px;
+        }
+
+        h2 {
+            color: rgb(255, 255, 255);
+            margin-bottom: 30px;
+        }
+
+        .form-container {
+            background-color: #212529;
+            border-radius: 15px;
+            padding: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-submit {
+            margin-top: 20px;
+        }
+
+        form {
+            color: white;
+            background-color: #212529;
+        }
+
+        .warn {
+            color: red;
+        }
+
+        .note {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    {{>instadmheader}}
+
+    <!-- Complaint Registration Form -->
+    <div class="container">
+        <h2 class="text-center">Register a Complaint</h2>
+
+        <div class="form-container mx-auto" style="max-width: 600px;">
+            <form action="/adminregistercomplaint" method="POST">
+                <div class="form-group">
+                    <label for="complaintDetails">Complaint Details <span style="color: rgb(0, 255, 0);">(If any Media Files available , mail to opsommprakash+instadminhelp@outlook.com with the generated CID as Subject)</span></label>
+                    <textarea class="form-control" id="complaintDetails" name="complaintDetails" rows="4"
+                        placeholder="Enter your complaint details here...(Mention Everything)" required></textarea>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary btn-submit">Submit Complaint</button>
+                <div id="messages">
+                    {{#if success}}
+                    <div class="alert alert-success">{{success}}</div>
+                    {{/if}}
+                    {{#if warn}}
+                    <div class="alert alert-warning">{{warn}}</div>
+                    {{/if}}
+                </div>
+            </form>
+        </div>
+        <div id="messages" style="margin: 15px; ">
+            <div style="color: red;" class="alert alert-success text-center">There can be a maximum of 2 active complaints at a time</div>
+        </div>
+    </div>
+
+    {{>instadminfooter}}
+
+    <!-- Bootstrap 5 JS -->
+    <script src="../public/js/bootstrap.bundle.js"></script>
+
+</body>
+
+</html>

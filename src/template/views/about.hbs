@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <title>About Us</title>
+    <style>
+
+        .navbar, .form-control, label {
+            color: #fff;
+        }
+
+        .bg-img {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.7) blur(5px);
+        }
+
+        .section-title {
+            color: yellow;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .card-body {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+        }
+
+        .card-text {
+            color: #f8f9fa;
+        }
+        
+    </style>
+</head>
+
+<body>
+
+    {{>mainheader}}
+
+    <div class="container mt-5">
+
+        <!-- Our Story Section -->
+        <section id="our-story">
+            <h2 class="section-title">Our Story</h2>
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        GITA (Gandhi Institute for Technological Advancement) is a well-known name in the field of technical education. Founded in 2004 & situated in the outskirts of Bhubaneswar, the college is a part of the famous Vidya Bharati Educational Trust – founder of the famed GIET, Gunupur. GITA has created a name for itself in the field of technical education in eastern India. The college is a trendsetter in the field of quality education and crafting successful engineers out of its students. It is approved by All India Council for Technical Education (AICTE) under Ministry of HRD, Govt. of India, recognized by Govt. of Odisha and is affiliated to Biju Patnaik University of Technology (BPUT), Rourkela. It is accredited by NAAC (National Assessment and Accreditation Council) at "A" grade with 3.30 CGPA (Highest in Odisha). It is also accredited by National Board of Accreditation (NBA) and approved by DSIR as SIRO (Scientific and Industrial Research Organization). GITA is proud of providing qualitative technical education and strives to imbibe the spirit of research in students. A citadel of knowledge, the college since its inception has emerged with flying colours and is a name in the educational arena. It’s ranked among top engineering colleges of the country and boasts of excellent placement statistics over the years. Our students validate our claims by their performance not only in academics but also in the corporate world.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Us Section -->
+        <section id="contact-us" class="mt-5">
+            <h2 class="section-title">Contact Us</h2>
+            <div class="card" style="margin-bottom: 20px;">
+                <div class="card-body">
+                    <p class="card-text">
+                        <strong>Principal,</strong><br>
+                        GITA Autonomous College Bhubaneswar,<br>
+                        Badaraghunathpur, Madanpur, Via-Janla,<br>
+                        Dist-Khurdha, Odisha, Pin-752054<br>
+                        <strong>E-mail:</strong> <a href="mailto:principal@gita.edu.in">principal@gita.edu.in</a><br>
+                        <strong>Website:</strong> <a href="https://www.gita.edu.in" target="_blank">www.gita.edu.in</a><br><br>
+
+                        <strong>For ERP Support:</strong><br>
+                        Prof. Prahallad Sahoo<br>
+                        Contact No./WhatsApp: <a href="tel:+919861383117">9861383117</a><br>
+                        Email: <a href="mailto:prahalladsahoo@gita.edu.in">prahalladsahoo@gita.edu.in</a><br><br>
+
+                        Mr. Lalatendu Jena<br>
+                        Contact No.: <a href="tel:+91978530308">7978530308</a><br><br>
+
+                        <strong>For Fees Related Support:</strong><br>
+                        Mr. Deepak Kumar Panda<br>
+                        Contact No./WhatsApp: <a href="tel:+918260045019">8260045019</a><br>
+                        Email: <a href="mailto:office@gita.edu.in">office@gita.edu.in</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    {{>footer}}
+
+    <script src="../public/js/bootstrap.bundle.js"></script>
+
+</body>
+
+</html>

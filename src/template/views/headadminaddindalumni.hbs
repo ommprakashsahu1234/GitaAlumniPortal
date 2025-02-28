@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add ALumni</title>
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <style>
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+            color: #fff;
+            text-align: center;
+            width: 50%;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        .form-control {
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .warn {
+            color: red;
+        }
+
+        h2 {
+            color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    {{>headadmheader}}
+    <div class="container mt-5">
+        <h2 class="mb-4 text-center">Upload Alumni Details</h2>
+        <div class="form-container mx-auto" style="max-width: 400px;">
+            <form action="/addalumni" method="POST">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name : </label>
+                    <input type="text" id="name" name="name" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="rollno" class="form-label">Rollno : </label>
+                    <input type="text" id="rollno" name="rollno" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="regdno" class="form-label">Regd. No : </label>
+                    <input type="number" id="regdno" name="regdno" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="branch" class="form-label">Branch : </label>
+                    <input type="text" id="branch" name="branch" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="batch" class="form-label">Batch</label>
+                    <select id="batch" name="batch" class="form-select" required>
+                        <option value="" disabled selected>Select Batch</option>
+                        <option value="2004">2004</option>
+                        <option value="2005">2005</option>
+                        <option value="2006">2006</option>
+                        <option value="2007">2007</option>
+                        <option value="2008">2008</option>
+                        <option value="2009">2009</option>
+                        <option value="2010">2010</option>
+                        <option value="2011">2011</option>
+                        <option value="2012">2012</option>
+                        <option value="2013">2013</option>
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>
+                        <option value="2020">2020</option>
+                        <option value="2021">2021</option>
+                        <option value="2022">2022</option>
+                        <option value="2023">2023</option>
+                        <option value="2024">2024</option>
+                        <option value="2025">2025</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Upload</button>
+                <div id="messages">
+                    {{#if success}}
+                    <div class="alert alert-success">{{success}}</div>
+                    {{/if}}
+                    {{#if warn}}
+                    <div class="alert alert-warning">{{warn}}</div>
+                    {{/if}}
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    {{>headadminfooter}}
+</body>
+
+</html>

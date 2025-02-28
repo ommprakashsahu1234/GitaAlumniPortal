@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Alumni CSV</title>
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <style>
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+            color: #fff;
+            text-align: center;
+            width: 50%;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        .form-control {
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .warn {
+            color: red;
+        }
+
+        h2 {
+            color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    {{>headadmheader}}
+
+    <div class="form-container">
+        <h2>Upload Alumni Details</h2>
+        <form action="/uploadalumni" method="POST" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="batch" class="form-label">Batch</label>
+                <select id="batch" name="batch" class="form-select" required>
+                    <option value="" disabled selected>Select Batch</option>
+                    <option value="2004">2004</option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                    <option value="2010">2010</option>
+                    <option value="2011">2011</option>
+                    <option value="2012">2012</option>
+                    <option value="2013">2013</option>
+                    <option value="2014">2014</option>
+                    <option value="2015">2015</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                    <option value="2023">2023</option>
+                    <option value="2024">2024</option>
+                    <option value="2025">2025</option>
+                </select>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="csvFile" class="form-label">Upload CSV File</label>
+                <input type="file" id="csvFile" name="csvFile" class="form-control" accept=".csv" required>
+            </div>
+
+            <!-- Notice Section -->
+            <div class="alert alert-info" role="alert" align="left">
+                <strong>Notice:</strong> Please ensure your CSV file follows this format:<br>
+                <ul>
+                    <li><strong>rollno,regdno,name,branch</strong> </li>
+                    <li>Ensure all fields are correctly filled in the csv file without missing values.If missing then
+                        contact head before uploading</li>
+                    <li>Upload only valid CSV files; other formats will not be accepted.</li>
+                    <li>Ensure that correct batch is filled in the above.</li>
+                </ul>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Upload</button>
+        </form>
+
+        <div id="messages">
+            {{#if success}}
+            <div class="alert alert-success">{{success}}</div>
+            {{/if}}
+            {{#if warn}}
+            <div class="alert alert-warning">{{warn}}</div>
+            {{/if}}
+        </div>
+    </div>
+
+
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    {{>headadminfooter}}
+</body>
+
+</html>

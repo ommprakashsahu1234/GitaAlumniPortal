@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/styles.css">
+    <title>Registration</title>
+    <style>
+
+        .navbar,
+        .table,
+        h2,
+        th,
+        td,
+        label,
+        .form-control {
+            color: #FFF;
+        }
+
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            border: 2px solid #ddd;
+        }
+
+
+        h1 {
+            color: rgb(255, 255, 255);
+        }
+
+        h4 {
+            color: rgb(91, 162, 255);
+        }
+
+        .form-control {
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .reg:hover {
+            box-shadow: 0 0 10px 5px rgba(0, 123, 255, 0.75);
+            transition: box-shadow 0.3s ease-in-out;
+        }
+
+        .required {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    {{>loginregisterheader}}
+
+    <div class="container mt-5">
+
+        <h1 class="mb-4 text-center border border-primary reg" style="padding:30px; border-radius:20px;">Register</h1>
+
+
+        <div class="form-container">
+            <form action="/register" method="POST" enctype="multipart/form-data">
+                <div id="messages">
+                    {{#if success}}
+                    <div class="alert alert-success">{{success}}</div>
+                    {{/if}}
+                    {{#if warn}}
+                    <div class="alert alert-warning">{{warn}}</div>
+                    {{/if}}
+                </div>
+                <h4 class="text-center">Personal Details</h4>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name<span class="required">*</span></label>
+                    <input type="text" class="form-control" id="name" name="name" required value="{{nameValue}}">
+                </div>
+                <div class="mb-3">
+                    <label for="rollno" class="form-label">Roll No<span class="required">*</span></label>
+                    <input type="text" class="form-control" id="rollno" name="rollno" required value="{{rollnoValue}}">
+                </div>
+                <div class="mb-3">
+                    <label for="batch" class="form-label">Batch<span class="required">*</span></label>
+                    <select class="form-control text-dark" id="batch" name="batch" required>
+                        <option disabled selected>Select</option>
+                        <option {{#if (eq batchValue "2008" )}}selected{{/if}}>2008</option>
+                        <option {{#if (eq batchValue "2009" )}}selected{{/if}}>2009</option>
+                        <option {{#if (eq batchValue "2010" )}}selected{{/if}}>2010</option>
+                        <option {{#if (eq batchValue "2011" )}}selected{{/if}}>2011</option>
+                        <option {{#if (eq batchValue "2012" )}}selected{{/if}}>2012</option>
+                        <option {{#if (eq batchValue "2013" )}}selected{{/if}}>2013</option>
+                        <option {{#if (eq batchValue "2014" )}}selected{{/if}}>2014</option>
+                        <option {{#if (eq batchValue "2015" )}}selected{{/if}}>2015</option>
+                        <option {{#if (eq batchValue "2016" )}}selected{{/if}}>2016</option>
+                        <option {{#if (eq batchValue "2017" )}}selected{{/if}}>2017</option>
+                        <option {{#if (eq batchValue "2018" )}}selected{{/if}}>2018</option>
+                        <option {{#if (eq batchValue "2019" )}}selected{{/if}}>2019</option>
+                        <option {{#if (eq batchValue "2020" )}}selected{{/if}}>2020</option>
+                        <option {{#if (eq batchValue "2021" )}}selected{{/if}}>2021</option>
+                        <option {{#if (eq batchValue "2022" )}}selected{{/if}}>2022</option>
+                        <option {{#if (eq batchValue "2023" )}}selected{{/if}}>2023</option>
+                        <option {{#if (eq batchValue "2024" )}}selected{{/if}}>2024</option>
+                        <option {{#if (eq batchValue "2025" )}}selected{{/if}}>2025</option>
+                    </select>
+
+                </div>
+                <div class="mb-3">
+                    <label for="branch" class="form-label">Branch<span class="required">*</span></label>
+                    <select class="form-control text-dark" id="branch" name="branch" required>
+                        {{!-- <option disabled selected>Select</option> --}}
+                        <option selected>CSE</option>
+                        {{!-- <option>CS-AI</option>
+                        <option>CS-IT</option>
+                        <option>CST</option>
+                        <option>CS-AIML</option>
+                        <option>CS-DS</option>
+                        <option>CSE-IOT</option>
+                        <option>CE</option>
+                        <option>ECE</option>
+                        <option>EE</option>
+                        <option>EEE</option>
+                        <option>ME</option> --}}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="skill" class="form-label">Skills</label>
+                    <input type="text" class="form-control text-dark" id="skill" name="skill">
+                </div>
+                <h4 class="text-center">Account Details</h4>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password<span class="required">*</span></label>
+                    <input type="password" class="form-control text-dark" id="password" name="password" required>
+                </div>
+                <div class="mb-3">
+                    <label for="confirmPassword" class="form-label">Confirm Password<span
+                            class="required">*</span></label>
+                    <input type="password" class="form-control text-dark" id="cPassword" name="cPassword" required>
+                </div>
+                <div class="mb-3">
+                    <label for="mobno" class="form-label">Mobile No<span style="color: lightgreen;"> (By default your
+                            mobile no is public.)</span><span class="required">*</span></label>
+                    <input type="text" class="form-control text-dark" id="mobno" name="mobno" required>
+                </div>
+                <div class="mb-3">
+                    <label for="mailid" class="form-label">Mail ID<span class="required">*</span></label>
+                    <input type="email" class="form-control text-dark" id="mailid" name="mailid" required>
+                </div>
+                <div class="mb-3">
+                    <label for="profileimg" class="form-label">Profile Image (.jpg files only)<span
+                            style="color: lightgreen;"> (Once Image Uploaded can never be changed.)</span><span
+                            class="required">*</span></label>
+                    <input type="file" class="form-control text-dark" id="profileimg" name="profileimg" accept=".jpg"
+                        required>
+                </div>
+
+                <h4 class="text-center">Address Details</h4>
+                <div class="mb-3">
+                    <label for="pincode" class="form-label">Pincode<span class="required">*</span></label>
+                    <input type="text" class="form-control text-dark" id="pincode" name="pincode" required>
+                </div>
+                <div class="mb-3">
+                    <label for="district" class="form-label">District<span class="required">*</span></label>
+                    <input type="text" class="form-control text-dark" id="district" name="district" required>
+                </div>
+                <div class="mb-3">
+                    <label for="state" class="form-label">State<span class="required">*</span></label>
+                    <input type="text" class="form-control text-dark" id="state" name="state" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Register</button>
+
+
+            </form>
+        </div>
+    </div>
+
+
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    {{>footer}}
+</body>
+
+</html>
+<script>
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    // Set values in input fields
+    document.getElementById("name").value = getQueryParam("nameValue") || "";
+    document.getElementById("rollno").value = getQueryParam("rollnoValue") || "";
+
+    // Set batch value in the select dropdown
+    const batchValue = getQueryParam("batchValue");
+    if (batchValue) {
+        const batchSelect = document.getElementById("batch");
+        for (let option of batchSelect.options) {
+            if (option.value === batchValue) {
+                option.selected = true;
+                break;
+            }
+        }
+    }
+</script>

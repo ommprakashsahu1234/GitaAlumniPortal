@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Use local CSS files for Bootstrap and custom styles -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Update Details</title>
+    <style>
+        .table-section {
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            color: rgb(255, 255, 255);
+        }
+
+        body {
+            background-color: #121212;
+        }
+
+
+
+        .scrollable-container {
+            /* Adjust height based on your requirements */
+            overflow-y: auto;
+            background-color: #212529;
+            /* Dark mode background */
+            border: 1px solid #444;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        /* Styling for the placeholder content */
+        .placeholder-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            background-color: #343a40;
+            border-radius: 8px;
+            color: #fff;
+        }
+
+        .prfimg {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            max-width: 100%;
+            margin: 0 auto;
+            display: block;
+            border-radius: 50%;
+        }
+
+        .fixed-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 9999;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 30px;
+        }
+
+        .posts-container {
+            background-color: #212529;
+            /* Dark container background */
+            padding: 30px;
+            /* Inner spacing */
+            border-radius: 15px;
+            /* Rounded corners for the container */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            /* Subtle shadow for elevation */
+            max-width: 1200px;
+            /* Limit the width of the container */
+            margin: 0 auto;
+            /* Center the container */
+        }
+
+        .posts-wrapper {
+            display: flex;
+            flex-direction: column;
+            /* Stack posts vertically */
+            gap: 20px;
+            /* Space between posts */
+        }
+
+        .post-container {
+            background-color: #343a40;
+            /* Slightly lighter dark background for each post */
+            color: white;
+            /* White text */
+            padding: 20px;
+            /* Inner spacing */
+            border-radius: 10px;
+            /* Rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            /* Subtle shadow for elevation */
+        }
+
+        .post-container h2 {
+            font-size: 1.5rem;
+            /* Heading size */
+            margin-bottom: 10px;
+        }
+
+        .post-container .post-image {
+            max-width: 100%;
+            /* Responsive image width */
+            margin-bottom: 10px;
+            border-radius: 8px;
+            /* Rounded image corners */
+        }
+
+        .post-container h4 {
+            font-size: 1rem;
+            /* Text size */
+            margin-bottom: 10px;
+        }
+
+        .post-timestamp {
+            font-size: 0.8rem;
+            /* Very small text for timestamp */
+            color: #b0b0b0;
+            /* Lighter color for subtle effect */
+            margin-bottom: 15px;
+        }
+
+        .post-icons {
+            display: flex;
+            gap: 15px;
+            /* Space between icons */
+            font-size: 1.2rem;
+            /* Icon size */
+            color: #ffffff;
+            /* Icon color */
+        }
+
+        .post-icons i:hover {
+            color: #ffc107;
+            /* Yellow highlight on hover */
+            cursor: pointer;
+        }
+
+
+        h2 {
+            margin: 10px 0;
+            /* Consistent spacing for heading */
+            color: #ffc107;
+            /* Yellow color for heading */
+        }
+
+        h4 {
+            margin: 10px 0;
+            /* Consistent spacing for subheading */
+            color: #ffffff;
+            /* White color for text */
+        }
+
+        .addpost {
+            max-width: 40px;
+        }
+    </style>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<body>
+    <form action="/headadmin/editalumni/{{rollno}}" method="POST" class="update-form" style="margin-top: 15px;">
+        <div class="container mt-5">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped table-dark text-center">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Field Name</th>
+                            <th>Old Value</th>
+                            <th>New Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr>
+                            <td>Name</td>
+                            <td><input type="text" value="{{name}}" disabled class="form-control"></td>
+                            <td><input type="text" name="name" placeholder="Enter new name" class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Branch</td>
+                            <td><input type="text" value="{{branch}}" disabled class="form-control"></td>
+                            <td><input type="text" name="branch" placeholder="Enter new branch" class="form-control">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Batch</td>
+                            <td><input type="text" value="{{batch}}" disabled class="form-control"></td>
+                            <td><input type="text" name="batch" placeholder="Enter new batch" class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>PASSWORD</td>
+                            <td><input type="text" step="0.01" placeholder="New Password --> " disabled class="form-control">
+                            </td>
+                            <td><input type="password" step="0.01" name="password" placeholder="Enter new Password"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Email ID</td>
+                            <td><input type="email" value="{{mailid}}" disabled class="form-control"></td>
+                            <td><input type="email" name="mailid" placeholder="Enter new email ID" class="form-control">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Mobile Number</td>
+                            <td><input type="text" value="{{mobno}}" disabled class="form-control"></td>
+                            <td><input type="text" name="mobno" placeholder="Enter new mobile number"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>District</td>
+                            <td><input type="text" value="{{district}}" disabled class="form-control">
+                            </td>
+                            <td><input type="text" name="district" placeholder="Enter new district"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Pincode</td>
+                            <td><input type="number" value="{{pincode}}" disabled class="form-control">
+                            </td>
+                            <td><input type="text" name="pincode" placeholder="Enter new Pincode"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td> State</td>
+                            <td><input type="text" value="{{state}}" disabled class="form-control"></td>
+                            <td><input type="text" name="state" placeholder="Enter new state" class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Skills</td>
+                            <td><input type="text" value="{{skill}}" disabled class="form-control"></td>
+                            <td><input type="text" name="skill" placeholder="Enter new skills" class="form-control">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Type of Service</td>
+                            <td><input type="text" value="{{servicetype}}" disabled class="form-control"></td>
+                            <td><input type="text" name="servicetype" placeholder="Enter new service type"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Company Name</td>
+                            <td><input type="text" value="{{company}}" disabled class="form-control"></td>
+                            <td><input type="text" name="company" placeholder="Enter new company name"
+                                    class="form-control"></td>
+                        </tr>
+                        <tr>
+                            <td>Status</td>
+                            <td><input type="text" value="{{status}}" disabled class="form-control"></td>
+                            <td>
+                                <select name="status" class="form-select">
+                                    <option disabled selected>Select</option>
+                                    <option value="Approved">Approved</option>
+                                    <option value="Pending">Pending</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <button type="submit" class="btn btn-primary mt-3">Update Status</button>
+                            </td>
+                        </tr>
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="messages">
+            {{#if success}}
+            <div class="alert alert-success">{{success}}</div>
+            {{/if}}
+            {{#if warn}}
+            <div class="alert alert-warning">{{warn}}</div>
+            {{/if}}
+        </div>
+    </form>
+
+</body>
+
+</html>
+<script>
+
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
